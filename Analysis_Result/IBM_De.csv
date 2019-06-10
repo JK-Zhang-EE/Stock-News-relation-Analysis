@@ -1,0 +1,998 @@
+,Date,changed,title,details,news_score,news_result,average
+0,2018-12-20,-3.3310000000000004,"Reuters: IBM, HPE victims of Chinese hacking","
+Reuters sources?say Chinese state-backed hackers breached IBM (IBM -3.2%) and HPE (HPE -3.6%) networks. The hackers then accessed client computers.The attacks were part of the Cloudhopper security threat warned of by cybersecurity experts and government agencies since last year.Cloudhopper infiltrated the networks of IBM, HPE, and other unnamed companies multiple times and for weeks and months.IBM reportedly investigated an attack as recently as this past summer while HPE conducted an investigation early last year.Previously: Justice Departments accuses China of tech giant hacks (Dec. 20) ",-0.4977,negative,0.8037756097560975
+1,2018-12-20,-3.3310000000000004,IBM taps Samsung for 7nm processes,"
+IBM (NYSE:IBM) expands its strategic partnership with Samsung to include manufacturing 7nm processes.Samsung will manufacture microprocessors for?IBM Power Systems, IBM Z and LinuxONE, high-performance computing systems, and cloud offerings.IBM was using GlobalFoundries for its process technologies, but GlobalFoundries announced earlier this year it would put its 7nm FinFET program on hold indefinitely. Samsung and TSMC (NYSE:TSM) are the remaining 7nm players.The agreement expands and extends the 15-year strategic process tech R&D partnership between the companies.IBM shares are?down 0.9%?to $115.49. ",0.9713,positive,0.8037756097560975
+2,2018-12-17,-3.7119999999999997,Red Hat reports mixed Q3 ahead of acquisition,"
+Red Hat (NYSE:RHT) reports a Q3 EPS beat but revenue miss with revenue up 13% Y/Y. The company isn't providing guidance or hosting a conference call due to the pending acquisition by IBM (NYSE:IBM).Revenue breakdown:?Infrastructure-related subscription revenue, $534M;?Application Development-related and other emerging technology subscription, $207M.Press release.Previously: Red Hat beats by $0.09, misses on revenue (Dec. 17) ",0.8016,positive,0.8037756097560975
+3,2018-12-17,-3.7119999999999997,RBC cuts IBM's target on headwinds,"
+RBC Capital maintains an Outperform rating on IBM (NYSE:IBM) and lowers the price target from $175 to $167.The firm is lowering its CY19 and CY20 revenue and EPS estimates to reflect software asset sales and FX headwinds.IBM shares closed Friday?down 0.7%?to $119.90. ",0.7397,positive,0.8037756097560975
+4,2018-11-19,-1.2309999999999999,NAR: TSMC close to IBM chip order,"
+
+TSMC (NYSE:TSM) is close to securing a significant premium server chip order from IBM (NYSE:IBM), according to Nikkei Asian Review.
+The order would help TSMC compete with Intel (NASDAQ:INTC) in the data center market.
+The chips power the core processors of Apple's newer iPhones, but IBM wants the chips in its next-gen mainframe servers.
+Intel supplies 96% of data center server chips, according to TrendForce. IBM, the world's largest server builder by revenue, designs its own chips and was using Globalfoundries before the producer halted its 7nm process tech. The suspension left TSMC as the only remaining 7nm maker.
+ ",0.9221,positive,0.8037756097560975
+5,2018-10-30,-4.09,International Business Machines declares $1.57 dividend,"
+International Business Machines (NYSE:IBM) declares $1.57/share quarterly dividend, in line with previous.Forward yield 5.35%Payable Dec. 10; for shareholders of record Nov. 9; ex-div Nov. 8.The board also authorized $4B in additional funds for use in the company?�s stock repurchase program.With this new authorization, IBM will have approximately $5.4B for its stock repurchase program.See IBM Dividend Scorecard, Yield Chart, & Dividend Growth. ",0.9605,positive,0.8037756097560975
+6,2018-10-30,-4.09,Chances of a higher Red Hat buyout?,"
+Red Hat (NYSE:RHT) probably won't get an offer higher than the $190-per-share price from IBM, because it already spoke with ""all of the logical buyers"" including Google (GOOG, GOOGL), Reuters reports.Another deterrent? Should the current deal be terminated, Red Hat would be obligated to pay a $975M breakup fee.While it's possible a company - like Cisco (NASDAQ:CSCO) or Oracle (NYSE:ORCL) - could come in with a higher bid, potential suitors view IBM as a safe buyer that won't dramatically alter the competitive landscape.Previously: Analysts pick top cloud M&A targets after Red Hat acquisition (Oct. 29 2018)Previously: Red Hat would owe IBM $975M to breakup (Oct. 29 2018) ",0.9252,positive,0.8037756097560975
+7,2018-10-29,-4.968,Red Hat would owe IBM $975M to breakup,"
+        The IBM (NYSE:IBM) and Red Hat (NYSE:RHT) breakup fee has been revealed and Red Hat would owe $975M if it wanted to terminate the deal under specific conditions.        Recent breakup fee numbers include the $2B Qualcomm paid to walk away from NXP Semiconductors, the $8B Broadcom offered in its ultimately failed grab at Qualcomm, and the relatively low $500M AT&T would?�ve owed Time Warner.?IBM shares are?down 1%?aftermarket.????Previously: IBM acquires Red Hat for $34B (Oct. 28) ",0.5101,positive,0.8037756097560975
+8,2018-10-29,-4.968,"IBM, Red Hat and recent IPOs move on $34B deal","
+        IBM (NYSE:IBM) shares?drop 3.9%?premarket on its planned $34B purchase of Red Hat (NYSE:RHT), which is trading?up 49.4%.               The $190/share offer price and pending breakup fee, which will be among the largest ever in the tech industry, will likely keep away any other potential buyers.?               Recent open-source and enterprise-oriented IPOs are trading up after the deal: Cloudera (NYSE:CLDR)?+3.9%?and Hortonworks (NASDAQ:HDP)?+5.8%, which have plans to merge and Salesforce (NYSE:CRM)?+3.2%?scooped up MuleSoft. Other movers: (NASDAQ:DBX)?+2.8%, (NYSE:ZUO)?+2%,?(NASDAQ:DOCU) +3.2%.??Previously: Salesforce buys MuleSoft for $44.89 per share (March 20)Previously: Cloudera soars on Hortonworks merger (Oct. 3)Previously: IBM acquires Red Hat for $34B (Oct. 28) ",0.9181,positive,0.8037756097560975
+9,2018-10-25,-0.733,Whirlpool partners with IBM Cloud,"
+        Whirlpool announces it will use IBM?�s (NYSE:IBM) Cloud to run its SAP HANA environments, which includes insights into 70 manufacturing sites, distribution and call centers, and other systems.               The setup uses IBM?�s new SAP-certified IBM Services for Managed Applications to provide constant access to Whirlpool?�s critical applications including enterprise resource planning, CRM, and business warehousing.??? ",-0.2591,negative,0.8037756097560975
+10,2018-10-19,-1.399,STAT: IBM Watson Health head steps down,"
+        STAT reports that IBM (IBM -1.3%) Watson Health head Deborah DiSanzo is leaving her role for a position on the company?�s Cognitive Solutions strategy team.?               John Kelly, current SVP for Cognitive Solutions and IBM Research, will step into the vacancy.?               Watson Health has hit some bumps with its flagship cancer software earning criticism from some internal and external doctors and the business struggling to integrate acquisitions.               During this week?�s earnings report, the Cognitive Solutions segment reported revenue that was down 5% Y/Y.??????Previously: IBM Q3: Revenue miss, server weakness, and Cognitive Solutions drop (Oct. 16) ",-0.8123,negative,0.8037756097560975
+11,2018-10-17,-10.677999999999999,RBC out positive on IBM after revenue miss,"
+        RBC is out positive on IBM (NYSE:IBM) despite yesterday?�s earnings miss, saying Big Blue is getting close to an inflection.               The firm expects the stock to move higher as investors realize the turnaround is real.?               To move higher, RBC says IBM needs to keep delivering stabilizing gross margins (flat this quarter Y/Y), better pre-tax income margins (+50bps), and improved Services performance (GBS +2.5% and Technology Services flat). ??               Firm maintains an Outperform rating and $175 target.?               Source: Notable Calls.?               IBM shares are down 4.8%?premarket to $138.21.????Previously: IBM Q3: Revenue miss, server weakness, and Cognitive Solutions drop (Oct. 16) ",0.9609,positive,0.8037756097560975
+12,2018-10-11,-3.54,"IBM brings AI features, public cloud support to Cloud Private","
+           IBM (IBM -1%) announces that IBM Cloud Private has attracted ?�hundreds of leading enterprises worldwide??in the less than a year since its release.  IBM Cloud Private is an open source tech bringing cloud capabilities to businesses running on-premises IT systems.  Clients include the New Zealand Police, Japan?�s Aflac Insurance, and Brazil?�s Fidelity National Information Services.  IBM also announces the launch of new advanced features for Cloud Private, including the integration of AI capabilities with IBM Watson Assistant and IBM Watson Speech-to-Text. There?�s also additional public cloud support, including IBM Cloud. Previously: IBM files protest against Pentagon cloud contract with one winner (Oct. 10) ",0.9537,positive,0.8037756097560975
+13,2018-10-10,-4.388999999999999,IBM files protest against Pentagon cloud contract with one winner,"
+        IBM (IBM -1.7%) files a pre-award bid protest against the Pentagon?�s planned $10B, winner-take-all cloud contract, according to The Washington Post sources. ?        An unnamed company executive says IBM filed the protest with the Government Accountability Office, which rules on these matters.               The Joint Enterprise Defense Infrastructure, or JEDI, project involves creating a massive cloud computing system to enable new weapons capabilities and store classified data. The contract could last as long as 10 years.?               Bids for JEDI are due Friday with Amazon (AMZN -3.4%) considered the lead candidate due to its sheer size and market position. Microsoft (MSFT -3.2%), the second-largest cloud provider, announced yesterday that it was expanding its Azure government services. Rounding out the top three is Google, who announced it was withdrawing from consideration.?               Oracle (ORCL -1.6%) is another company vying for JEDI and worrying about Amazon?�s potential win.??Previously: Google drops out of race for $10B Pentagon cloud contract (Oct. 8)Previously: Microsoft expands Azure towards that $10B Pentagon contract (Oct. 9) ",0.8805,positive,0.8037756097560975
+14,2018-09-27,-0.106,Reuters: Cognizant Technology could acquire Softvision for $550M,"
+        Cognizant Technology (NASDAQ:CTSH) is in talks to purchase application developer Softvision for $550M, according to Reuters sources.               Softvision, owned by private equity company Tower Arch Capital, consults with large companies on technology products. A recent project involved creating a video-streaming platform and associated app for non-profit health provider Kaiser Permanente.?               Cognizant wants to expand its digital and cloud services offering to take on rivals Accenture (NYSE:ACN) and IBM (NYSE:IBM). ?As of early August, Cognizant?�s digital business accounted for 30% of its overall sales.?                  CTSH shares are?up 0.1%?to $76.89.? Previously: Cognizant acquires business advisory and data analytics company (May 2) ",0.9364,positive,0.8037756097560975
+15,2018-09-24,-1.273,Walmart will require some suppliers to use IBM's food safety solution,"
+        Walmart (WMT -0.9%) announces that all suppliers of leafy green vegetables for both Sam?�s Club and Walmart must upload their data to IBM?�s (IBM -0.9%) food safety blockchain solution by September 2019.               Putting data into the IBM Food Trust Solution, which Walmart helped develop, makes the food supply process more transparent and traceable in the event of an illness outbreak.?               Before the blockchain, it took about a week to trace the source of food. The blockchain reduces the time to 2.2 seconds, which also reduces the likelihood of tainted food reaching consumers.?               IBM will offer an onboarding system to help orient users to the service, meaning participating suppliers won?�t need to know anything about blockchain to comply. ?? ??? ",0.9555,positive,0.8037756097560975
+16,2018-09-17,-0.376,Workers sue IBM for age discrimination (update),"
+IBM (NYSE:IBM) is being sued for age discrimination after cutting thousands of jobs.Lawyer Shannon Liss-Riordan, who has represented workers in cases against Amazon, Uber, and Google, filed the suit.The three former IBM employees involved cited a ProPublica report from March that said IBM had fired more than 20K employees older than 40 over the last six years.A source tells Bloomberg that the Equal Employment Opportunity Commission has consolidated complaints against IBM into a targeted investigation.IBM has denied the allegations of age discrimination.IBM shares are?down 0.2%?to $148.08.Previously: IBM accused of firing older employees at higher rate (March 22)Update with IBM's statement to Seeking Alpha: ""Changes in our workforce are about skills, not age. In fact, since 2010 there is no difference in the age of our U.S. workforce, but the skills profile has changed dramatically. That is why we have been and will continue investing heavily in employee skills and retraining ??to make all of us successful in this new era of technology."" ",0.5673,positive,0.8037756097560975
+17,2018-08-28,-0.096,PDF Solutions -13.8% after Global Foundries cancels next-gen nodes,"
+        DA Davidson reiterates a Buy rating on PDF Solutions (NASDAQ:PDFS) but lowers the price target from $18 to $13.               Analyst Thomas Diffely cites yesterday?�s GlobalFoundries announcement that it?�s putting its 7nm program on hold indefinitely and won?�t pursue next-gen advanced nodes. GF is PDF?�s largest customer with a 30% to 40% piece.?               The analyst sees incremental impact of $2M per quarter but says this is likely to be offset by new projects at more mature nodes.?               Source: StreetAccount.?               PDF Solutions shares are?down 13.8%?to $8.77.??The GF change also impacted the company it spun out of with AMD (AMD -1.3%) now planning to?rely on TSMC (TSM +1.8%) for its 7nm processes.IBM (IBM -0.1%) joins the club having lost its preferred manufacturing partner after selling its manufacturing capabilities to GF four years ago. ",0.9675,positive,0.8037756097560975
+18,2018-08-28,-0.096,84% of companies dabbling in blockchain,"
+Companies don't want to be left off of the blockchain bandwagon.According to a new survey published by PwC, which included 600 executives from 15 territories, 84% of their firms said they are ""actively involved"" with the technology.Despite the growing interest, other research from Cowen estimated it will take 5.9 years for blockchain to gain widespread adoption amid worries about trust, regulatory uncertainty and compliance.Related: NDAQ, IBM, OSTK, KODK, AXP, BHP, ORCL, BABA, MET, FB, PRU, DIS, F, TM, GS, JPM, MS, SAN, RY, PFE, ING, AMZN, INTC, AAPL, WFC, BAC, RDS.A, RDS.B, BRK.A, BRK.B, BUD, CMCSA, WMT, GOOG, GOOGL, MSFT, OTC:SSNLF, OTCPK:NSRGY, OTCPK:TCEHY, OTCPK:SIEGY, OTCPK:HVBTF ",0.8976,positive,0.8037756097560975
+19,2018-07-31,-0.534,International Business Machines declares $1.57 dividend,"
+International Business Machines (NYSE:IBM) declares $1.57/share quarterly dividend, in line with previous.Forward yield 4.34%Payable Sept. 10; for shareholders of record Aug. 10; ex-div Aug. 9. ",0.6936,positive,0.8037756097560975
+20,2018-07-27,-1.489,Groupon -7.4% as IBM wins $82.5M patent case (update),"
+A jury awards IBM (NYSE:IBM) $83.5M after finding that Groupon (NASDAQ:GRPN) infringed on four of its e-commerce patents.IBM alleged Groupon built its business on IBM?�s e-commerce inventions without permission or a license.Groupon argued that IBM didn?�t use the patents in question and accused the tech giant of relying on its huge IP portfolio to charge other companies.Two of the patents came from the Prodigy online service that started in the late 1980s and another related to preserving information in a continuing client-server conversation. The fourth patent relates to authentication.IBM?�s IP licensing revenue brought in $1.19B in 2017. The company spends $5.6B a year on R&D.Groupon shares?drops 7.4%?to $4.86 on the news.IBM shares are?down 1%?to $145.20.Previously: IBM in patent dispute with Groupon (July 17)Update with IBM statement to Seeking Alpha:""IBM invests nearly $6 billion annually in research and development, producing innovations for society. We rely on our patents to protect our innovations. We are pleased by the jury's verdict.""Update: Initial reports put the total at $83.5M but the award was $82.5M. ",0.97,positive,0.8037756097560975
+21,2018-07-17,-1.88,IBM partners on new digital stable coin,"
+        IBM (NYSE:IBM) partners with Stronghold for a new cryptocurrency.        The Stronghold USD stable coin launches today on the Stellar blockchain platform. Buyers deposit money into partner bank Prime Trust for Stronghold to turn into tokens on a 1-to-1 ratio.               Stronghold USDs are for use among business from financial institutions to multinational corporations.?               Stable coins are pegged to an asset or major currency to provide more stability to the generally volatile digital currency space.?               IBM shares are?down 1.1%?to $143.84.?? ",0.9638,positive,0.8037756097560975
+22,2018-07-17,-1.88,IBM in patent dispute with Groupon,"
+IBM has asked a U.S. jury to award it $167M in a patent lawsuit accusing Groupon (NASDAQ:GRPN) of infringing foundational e-commerce technology, which has already been licensed to Amazon, Facebook and Google.Securing more U.S. patents than any other company for the past 25 years, Groupon argued IBM was overreading the scope of its patents and claiming ownership of building blocks of the internet. ",0.863,positive,0.8037756097560975
+23,2018-06-20,-1.212,"Box +3.1% on IBM agreement, high volume","
+        IBM (NYSE:IBM) and Box (NYSE:BOX) announce a new offering from IBM to build custom Box Skills that apply Watson AI tech to the Box Skills framework.               Box shares are?up 3.1%?on high volume of 13.3M shares compared to the 4.71M average.?               Competitor Dropbox (NASDAQ:DBX) is?down 6.2%?with no new catalyst with volume of 8.25M compared to the 5.04M average. ?? ??? ",0.873,positive,0.8037756097560975
+24,2018-06-19,-0.5529999999999999,IBM unveils Project Debater,"
+Taking on two humans in a formal debating competition, IBM's Project Debater came up only slightly short in conjuring arguments that a human audience would find more persuasive.The system was a sign computers are venturing into subjective human territory after IBM's Watson bested humans at Jeopardy in 2011, while Deep Blue conquered chess champion Garry Kasparov in 1997. ",0.0347,positive,0.8037756097560975
+25,2018-05-31,-1.25,Mass layoffs at IBM Watson Health?,"
+IBM (NYSE:IBM) has reportedly laid off 50% to 70% of the workforce at its Watson Health operation, primarily at recent acquisitions for which Big Blue paid at least $3.6B.Those include cloud-based services Explorys and Phytel, as well as medical image company Merge Healthcare and Truven Health Analytics.One former employee wrote ""the message was that there are about 7,000 people in Watson Health today and this was a cost-cutting exercise.""Statement from IBM: IBM is continuing to reposition our team to align with our focus on the high-value segments of the IT market.? We continue to hire aggressively in critical new areas that deliver value for our clients and IBM.We?�re not discussing specific numbers of employees affected, but it?�s a small percentage of our global Watson Health workforce, as we move to more technology-intensive offerings, simplified processes and automation to drive speed. ",0.8965,positive,0.8037756097560975
+26,2018-05-23,-0.401,"IBM will hire 1,800 in France","
+IBM (NYSE:IBM) will hire about 1,400 additional people in France in the next two years.The new jobs will cover blockchain, cloud computing, and IoT.IBM had previously announced plans to hire 400 to work in AI in France.IBM?�s Ginni Rometty will have a one-on-one meeting with President Macron today then attend the ?�Tech for Good??workshops with other tech giants.IBM shares are?down 0.2%?premarket to $144.84.Previously: France's Macron meeting with tech leaders May 23 (May 16)Update: Post updated to change title. ",0.8766,positive,0.8037756097560975
+27,2018-05-15,-0.534,"Berkshire doubles stake in Teva; adds to Apple, Monsanto in Q1","
+ Warren Buffett's Berkshire Hathaway (BRK.A, BRK.B) discloses sharply increased positions in Teva Pharmaceuticals (NYSE:TEVA), Monsanto (NYSE:MON) and Apple (NASDAQ:AAPL) during Q1, according to its 13F filing. Berkshire more than doubled its stake in Teva to 40.5M shares after first reporting an 18.8M-share stake in Q4 of last year, sending Teva +4.7% after hours; it also raised its holdings in MON to nearly 19M shares from 11.7M, but there were no major new positions.Berkshire's 239.5M shares in AAPL, up from 165M at the end of Q4, make it AAPL's second largest shareholder.Positions were closed in IBM and GHC, while stakes were reduced in PSX and VRSK.  ",0.8644,positive,0.8037756097560975
+28,2018-05-15,-0.534,"Point72 adds heavy in WYNN, AVGO; trims CMCSA, APC, MU","
+ In its latest 13F, Point72 added new stakes in Booking Holdings (NASDAQ:BKNG), along with shares of Nvidia (NASDAQ:NVDA) and Merck (NYSE:MRK), while exiting stakes in EQT, IBM and Verizon (NYSE:VZ). Biggest new buys came in Wynn Resorts (WYNN; added 1.454M shares to raise holdings to over 1.785M); Broadcom (AVGO; added 1.11M shares to land just short of 1.13M shares); and Alibaba (BABA; added 1.185M shares to reach holdings of 1.692M). Meanwhile, biggest sales came in Comcast (CMCSA; sold 5.989M shares to end up with 136,212); Anadarko Petroleum (APC; sold 4.41M shares to leave 1.346M); and Micron Technology (MU; sold 3.768M shares to end up with 277,000).  ",0.9449,positive,0.8037756097560975
+29,2018-05-15,-0.534,Veridium to use IBM blockchain to turn carbon credits into digital asset,"
+Veridium Labs is collaborating with IBM (IBM -0.7%) to transform carbon credits into a new type of fungible digital asset that can be redeemed and traded on the Stellar network.The project uses IBM's work in public and private blockchain networks to enable clients and developers to engage in token-related networks.""Our digital environmental assets are designed to help companies and institutional investors purchase and use carbon credits to mitigate their environmental impacts today, and even hedge their potential carbon liabilities risks in the future,"" says Veridium CEO and Co-Founder Todd Lemons.Source: Press ReleasePreviously: Reuters: IBM joins blockchain non-profit (April 5)#consensus2018 ",0.9596,positive,0.8037756097560975
+30,2018-04-24,-0.28300000000000003,International Business Machines declares $1.57 dividend,"
+International Business Machines (NYSE:IBM) declares $1.57/share quarterly dividend, 4.7% increase from prior dividend of $1.50.Forward yield 4.3%Payable June 9; for shareholders of record May 10; ex-div May 9. ",0.8285,positive,0.8037756097560975
+31,2018-04-20,-2.6430000000000002,"IBM, Exxon, J&J among expected dividend hikes next week","
+According to Bloomberg BDVD, the following S&P 500 names are seen hiking dividends next week: Avery Dennison (NYSE:AVY) to $0.49 from $0.45, FMC Corp (NYSE:FMC) to $0.18 from $0.165, Grainger (NYSE:GWW) to $1.40 from $1.28, Hanesbrands (NYSE:HBI) to $0.18 from $0.15, IBM (NYSE:IBM) to $1.60 from $1.50, Invesco (NYSE:IVZ) to $0.30 from $0.29, J&J (NYSE:JNJ) to $0.88 from $0.84, Noble Energy (NYSE:NBL) to $0.13 from $0.10, Paccar (NASDAQ:PCAR) to $0.27 from $0.25, Travelers (NYSE:TRV) to $0.75 from $0.72, Wynn Resorts (NASDAQ:WYNN) to $0.75 from $0.50, Xilnx (NASDAQ:XLNX) to $0.37 from $0.35, Exxon (NYSE:XOM) to $0.79 from $0.75, and Zions Bancorp (NASDAQ:ZION) to $0.24 from $0.20.S&P 1500 stocks hiking next week is here ",0.8637,positive,0.8037756097560975
+32,2018-04-18,-11.439,IBM -7.8% in worst day in years as analysts parse margins,"
+ IBM's worst day at the market in years gets worse, with the shares down 7.8% after margins missed estimates and dim guidance in last night's earnings. At $148.40, IBM shares are still not quite as low as on Feb. 8 ($147.59). Earlier, Morgan Stanley stuck up for the stock, expecting further margin improvement ahead and more achievable second-half estimates in maintaining an Overweight rating and $198 price target. Other analysts were more cautious. Cantor Fitzgerald stuck with a Neutral rating and $152 target, saying margins are still an open question and it sees ""a return to consistent organic growth and margin expansion as necessary for sustainable multiple expansion from present levels."" Without a big tax benefit, IBM might have missed estimates, BMO's Keith Bachman says. The company has ""some work to do"" and BMO's staying on the sideline (price target $175) until there's better confidence of margin improvement. Earnings call slides Earnings call transcript  ",0.9599,positive,0.8037756097560975
+33,2018-04-18,-11.439,IBM -6% but defended at Morgan Stanley after Q1 margin miss,"
+ IBM -5.7% premarket after Q1 gross margin fell short of the company?�s efforts to stabilize its profitability, although it did ""improve materially??over Q4 as IBM works to bring margins level with last year?�s results, says Morgan Stanley's Katy Huberty.The analyst also notes ""disappointing systems revenue driven by a storage miss,"" which fell 15% Y/Y in the quarter.But Huberty expects further margin improvement in Q2 and sees H2 estimates as more achievable, helped by an expected $600M in  gross cost savings and a stronger than expected Q2 EPS  forecast.The firm maintains its Overweight rating and $198 price target for IBM shares.Source: Bloomberg First Word  ",0.8752,positive,0.8037756097560975
+34,2018-04-13,-1.284,Bloomberg: Oracle leads anti-Amazon lobby in Pentagon contract bid,"
+        Bloomberg First Word sources say Oracle (ORCL +0.5%) is leading an anti-Amazon (NASDAQ:AMZN) lobby in the battle for a single, multiyear cloud services contract from the Pentagon.               Others involved in the effort include Microsoft (MSFT -0.1%), which stands second behind Amazon in the cloud market, and IBM (IBM -0.7%).?               The group wants to make sure the award process is open to more than one company and that Amazon doesn?�t win an automatic victory due to market size.?               Last week, Bloomberg reported that Oracle co-CEO Safra Catz criticized the bidding process during a private dinner with President Trump. The White House later said that Trump isn?�t involved in the contract process. ?? ???Previously: Bloomberg: Oracle CEO complained to Trump about Amazon (updated) (April 4) ",0.9557,positive,0.8037756097560975
+35,2018-03-22,-4.342,IBM accused of firing older employees at higher rate,"
+        IBM (NYSE:IBM) cut around 20K American employees over the age of 40 in the last few years, according to a new investigation from Pro Publica and Mother Jones.               The figure represented about 60% of IBM?�s total U.S. job cuts in that period.?               IBM got around publicly disclosing the mass layoffs by converting the cuts into voluntary retirements or resignations.?                  Some employees were fired for supposed ?�performance issues??but then rehired as a cheaper contract employee. Others were encouraged to apply for other roles in the company, but IBM advised hiring managers not to hire that person.                   Employees were also pressured to sign agreements that they wouldn?�t go to court against IBM or discuss their experience.?               IBM?�s response: ?�We are proud of our company and our employees??ability to reinvent themselves era after era, while always complying with the law. Our ability to do this is why we are the only tech company that has not only survived but thrived for more than 100 years.?��?              Read the full report here.?               IBM shares are?down 2.1%?to $153.37.???? ",0.9851,positive,0.8037756097560975
+36,2018-03-20,-1.085,IBM reaffirms FY18 guidance,"
+        IBM (NYSE:IBM) reaffirms at least $13.80 for its FY18 EPS compared to the $13.83 consensus.                  Company expects to deliver 17% to 18% of the FY expectation in Q1. ?                  IBM shares are?down 0.2%?to $157.11.?? ",0.2435,positive,0.8037756097560975
+37,2018-03-14,-1.133,"IBM launches Cloudflare-backed security, bare metal Kubernetes containers","
+        IBM (NYSE:IBM) partners with Cloudflare to offer a ?�one-stop shop??for security capabilities to protect public-facing web content and apps.                  The service launches under the IBM offered Cloud Internet Services, which is powered by Cloudflare tech and saves IBM from having to build its own global network of data centers and security partnerships.                   Another new IBM offering that?�s also an industry first: Kubernetes containers as a managed service on bare metal cloud infrastructure. Bare metal offers performance benefits and greater customization for dev teams. Not having to share a container adds greater security.?               IBM shares are?up 0.6%?to $160.23. ???? ??? ",0.9775,positive,0.8037756097560975
+38,2018-02-13,-0.613,IBM sues former exec moving to Microsoft,"
+        IBM (NYSE:IBM) is suing former human resources VP and Chief Diversity Officer Lindsay-Rae McIntyre alleging a violation of a one-year non-competitive agreement.               Microsoft (NASDAQ:MSFT) named McIntyre as their new Chief Diversity Officer over the weekend. ??               IBM?�s side: The company says McIntyre ?�abruptly resigned to compete against IBM??and possesses confidential and sensitive information about IBM?�s diversity and hiring strategies and tech and innovations.               What IBM wants: IBM wants to enforce the non-competition agreement for the year and recover equity compensation forfeited by her alleged contractual violation.?               McIntyre?�s side: In a motion filed today, McIntyre says IBM has no evidence she has or will misappropriate any IBM information and that the company is covered by an ongoing NDA. She also says she informed IBM of the Microsoft job offer in January, which was when she was terminated.?               A judge has temporarily halted McIntyre?�s move to Microsoft until the mess is sorted out.?               Microsoft?�s side: ?�We have no interest in any of IBM?�s confidential information.????IBM shares are?down 0.5%.? ??????? ",0.9142,positive,0.8037756097560975
+39,2018-01-30,-2.972,International Business Machines declares $1.50 dividend,"
+International Business Machines (NYSE:IBM) declares $1.50/share quarterly dividend, in line with previous.Forward yield 3.65%Payable March 10; for shareholders of record Feb. 9; ex-div Feb. 8. ",0.6833,positive,0.8037756097560975
+40,2018-01-29,-0.505,Trump team weighs nationalizing 5G,"
+National security officials in the Trump administration are looking at options where the U.S. government could take over part of the country's mobile network as a way of guarding against ""dominant malicious actor"" China.The report from Axios describes two options: The U.S. government pays for and builds the single network - an unprecedented nationalization of private infrastructure - and an alternative where U.S. wireless providers build their own 5G networks, which would be less commercially disruptive to the industry.Related tickers: AMT, AVGO, CCI, CHTR, CMCSA, CSCO, ERIC, EQIX, IBM, IDCC, IDTI, INTC, JNPR, GLW, NOK, QCOM, RHT, SWKS, S, T, TMUS, TWLO, VMW, VZ, WIFI, XLNX, ZAYO ",0.069,positive,0.8037756097560975
+41,2018-01-19,-6.309,Analysts comment on IBM's earnings,"
+Analysts comment on IBM?�s (NYSE:IBM) earnings report yesterday, which beat estimates with revenue growth but included margin erosion.Cantor Fitzgerald?�s Joseph Foresi notes that the first revenue growth in nearly six years came from strength in Systems and a hardware refresh cycle.But Foresi says IBM needs to return to consistent growth and margin expansion before a valuation multiple expansion can happen.Cantor rates IBM at Neutral with a $152 price target.More action: RBC?�s Amit Daryanani questions the ?�quality??of the earnings since the non-GAAP tax rate was 6%, well below expectations, and gross margins were ?�soft.?�Daryanani does say the CY18 guidance was ?�incrementally better??and could signal stabilization ahead.RBC rates IBM at Outperform with a $180 price target.Source: Bloomberg First WordIBM shares are?down 4.5%.Previously: IBM -4.4% despite beating Q4 estimates, posting first revenue growth in nearly 6 years (Jan. 18)Previously: IBM Q4 earnings call: FY18 guidance, tax forecast, and margin erosion (Jan. 19)Update: Corrected ticker movement at time of publication. ",0.9841,positive,0.8037756097560975
+42,2018-01-19,-6.309,"IBM Q4 earnings call: FY18 guidance, tax forecast, and margin erosion","
+           IBM (NYSE:IBM) held its Q4 earnings call (transcript) aftermarket yesterday and included FY18 guidance and more details on the quarterly report.  FY18 guidance: Operating EPS flat on the year to ?�at least $13.80??(consensus: $13.92). FCF expected at about $12B. IBM expects a headwind from cash tax payments to the tune of about $600M year-to-year.  Tax: 2018 operating tax rate of 14% to 18% (before any discretes) incorporates the new tax law and is a four-point headwind year-to-year. Management reminds investors that the company took discrete items in Q1 and Q2 last year, which brought the operating tax rate down to 7% for the year.            Q4 margins: Bernstein analyst Toni Sacconaghi mentions during the call that GBS and Tech Services margin erosion was ?�the worst we?�ve seen in history on a pretax basis.?�Operating gross margin was down a little over a point on the year and about 0.5 points behind guidance due to mix and yield delay in the Services business. Global Business Services margins were down 2.1 points to 24.8%, Cognitive Solutions down 3.5 points to 79.2%, Tech Services & Cloud Platforms down 2 points to 40.9%, and Systems down 1.2 points to 55.7%.   Earnings press release.  IBM shares are?down 3.2%?premarket. ?? Previously: International Business Machines beats by $0.01, beats on revenue (Jan. 18)Previously: IBM -4.4% despite beating Q4 estimates, posting first revenue growth in nearly 6 years (Jan. 18) ",-0.8782,negative,0.8037756097560975
+43,2017-12-29,-0.579,"Boeing, Caterpillar top Dow 2017 standings; GE lags far behind","
+Boeing (NYSE:BA) tops the final 2017 results for the 30 stocks on the Dow Jones average, as the company easily surpassed the number of new net orders it amassed in 2016.The top 10 of the Dow 30: 1. Boeing +89.4%, 2. Caterpillar (NYSE:CAT)?+69.9%, 3. Visa (NYSE:V) +46.1%, 4. Apple (NASDAQ:AAPL) +46.1%, 5. Wal-Mart (NYSE:WMT) +42.8%, 6. McDonald's (NYSE:MCD)?+41.4%, 7. Home Depot (NYSE:HD)?+41.3%, 8. UnitedHealth (NYSE:UNH)?+37.7%, 9. Microsoft (NASDAQ:MSFT)?+37.6%, 10. American Express (NYSE:AXP) +34%.11. 3M (NYSE:MMM)?+31.8%, 12. Intel (NASDAQ:INTC)?+27.2%, 13. Cisco (NASDAQ:CSCO) +26.7%, 14. JPMorgan Chase (NYSE:JPM)?+23.9%, 15. Nike (NYSE:NKE)?+23%, 16. Johnson &?Johnson (NYSE:JNJ) +21.2%, 17. United Technologies (NYSE:UTX)?+16.3%, 18. Pfizer (NYSE:PFE) +11.5%, 19. Travelers (NYSE:TRV)?+10.8%, 20. Coca-Cola (NYSE:KO)?+10.6%.21. Procter &?Gamble (NYSE:PG)?+9.3%, 22. Goldman Sachs (NYSE:GS) +6.4%, 23. Chevron (NYSE:CVX)?+6.3%, 24. DowDuPont (NYSE:DWDP)?+6%, 25. Disney (NYSE:DIS)?+3.1%, 26. Verizon (NYSE:VZ) -0.8%, 27. Merck (NYSE:MRK)?-4.4%, 28. ExxonMobil (NYSE:XOM)?-7.3%, 29. IBM?(NYSE:IBM) -7.5%, 30. General Electric (NYSE:GE)?-44.8%.Source: Finviz.com ",0.949,positive,0.8037756097560975
+44,2017-12-29,-0.579,"IBM, Priceline settle lengthy patent lawsuit","
+        IBM (NYSE:IBM) and Priceline (PCLN) resolve the patent lawsuit with a confidential settlement and cross-licenses to each other?�s patent portfolio.               The patent case goes back to 2015 with the patents in question stretching back to the early days of the internet.?               IBM accused Priceline (and its affiliates Kayak and OpenTable) of violating patents for the pre-World Wide Web online service Prodigy.?               The patents related to app and ad displays based more on the user computer than the service?�s servers.?               In September of this year, a judge handed out a complicated split ruling in the case that likely led to the settlement. ??               IBM shares are?up 0.3%.???? ",0.9646,positive,0.8037756097560975
+45,2017-12-20,-0.262,"Jefferies: Microsoft tops cloud market revenue, Alibaba tops in Y/Y growth","
+Jefferies analyst John DiFucci releases metrics on public cloud services with his estimated annualized revenue, percentage of market, and Y/Y growth.Total Cloud data is from Jefferies via MarketWatch?and includes IaaS, PaaS, and SaaS, which skews the numbers more towards SaaS companies.Top cloud player Amazon (NASDAQ:AMZN) Web Services comes in with $18.34B in annualized revenue and 26% of the market,? but only grew 42% Y/Y.Microsoft (NASDAQ:MSFT) Azure tops Amazon with $21.21B in annualized revenue and has 31% of the market with a 64% Y/Y growth.Other top cloud companies with annualized revenue, percentage of market, and Y/Y growth:IBM (NYSE:IBM) Cloud: $6.03B, 9% share, +23% Y/Y.Google (NASDAQ:GOOGL) Cloud: $5.8B, 8% share, +64%.Alibaba (NYSE:BABA) Cloud: $1.79B, 3% share, +92%.Salesforce (NYSE:CRM): $9.95B, 14% share, +23%.Oracle Cloud: $6.11B, 9% share, +60%.The top players subtotal $69.22B in annualized revenue, 68% of the market, and +49% Y/Y, according to Jefferies.Canalys data put Amazon with a 32% market share in Q3, Microsoft at 14%, and Google at 6%.Correction: Clarified wording and corrected headline ",0.9887,positive,0.8037756097560975
+46,2017-10-31,-0.278,International Business Machines declares $1.50 dividend,"
+ International Business Machines (NYSE:IBM) declares $1.50/share quarterly dividend, in line with previous. Forward yield 3.89% Payable Dec. 9; for shareholders of record Nov. 10; ex-div Nov. 9. In addition, Board authorized $3B in additional funds for Stock Repurchase. With this new authorization, IBM will have approximately $4.5B for its stock repurchase program.  ",0.9535,positive,0.8037756097560975
+47,2017-10-17,-0.268,"IBM reports Q3, FY guidance beats; shares +4%","
+        IBM (NYSE:IBM) shares are?up 4.08%?aftermarket following Q3 results with revenue and EPS beats. The company forecasts FY17 diluted operating EPS of at least $13.80, compared to $13.75 consensus, with flat FCF on the year.?        Segment sales: Cognitive Solutions (solutions and transaction processing software), $4.4B (+4% Y/Y, 78.7% profit margin); Global Business Services (consulting, global process services, app management), $4.1B (-2% Y/Y, 27.3% margin); Tech Services & Cloud Platforms (infrastructure services, tech support, integration software), $8.5B (-3% Y/Y, 41.1% margin); Systems (systems hardware, operating systems software), $1.7B (+10% Y/Y, 53.6%); Global Financing, $427M (+4%, 25.2% margin).?               Other key sales numbers: Cloud revenues were up 20% to $4.1B. Annual exit run rate for as-a-service revenue increased to $9.4B from last year?�s $7.5B.?               Financials: Cash from operating activities, excluding Global Financing receivables, totaled $3.3B and FCF was $2.5B. IBM ended the quarter with $11.5B in cash on hand and $45.6B in debt. The company returned $1.4B in dividends, $0.9B in gross share repurchases, and had $1.5B remaining in the current share repurchase authorization as of September.? Press release? ???Previously: International Business Machines beats by $0.02, beats on revenue (Oct. 17) ",0.9723,positive,0.8037756097560975
+48,2017-10-17,-0.268,"International Business Machines beats by $0.02, beats on revenue","
+International Business Machines (NYSE:IBM): Q3 EPS of $3.30 beats by $0.02.Revenue of $19.15B (-0.4% Y/Y) beats by $550M.Shares +1.6%.Press Release ",0.3151,positive,0.8037756097560975
+49,2017-10-16,-0.25,"IBM roundup: two different financial platforms, new ways to migrate to Cloud","
+        IBM (NYSE:IBM) announces a blockchain platform to help banks quickly process transactions around the world.               IBM wants to make global payments easier for both lender and borrower, across currencies, and regardless of the borrower?�s location ??meaning, those in developing countries have a shot at borrowing, too.?               The project is in collaboration with tech partners Stellar.org and KlickEx Group and lending participants including Bank Mandiri, Bank Permata, and TD Bank.?               IBM also announces today it teamed with Toronto FinTech company Dream Payments to create a cloud platform to make mobile payments easier for banks and merchants.?               The Dream Payments Cloud is rolling out to U.S. financial institutions to make mobile payment acceptance possible without an expensive and lengthy IT process.?               On the enterprise client side of things, IBM announces the IBM Cloud Migration Services and IBM Cloud Deployment Services to make moving workloads to the cloud cheaper and easier.?               In Q2, IBM Cloud held a 4.8% share of the cloud infrastructure services market, according to Canalys. The share put IBM in fourth place, but market leader Amazon Web Service had a 30.3% share.??Previously: IBM, Majesco announce cloud-based insurance platform (Oct. 11) ",0.9664,positive,0.8037756097560975
+50,2017-10-11,-0.8140000000000001,"IBM, Majesco announce cloud-based insurance platform","
+        IBM (NYSE:IBM) announces a new cloud-based insurance platform in conjunction with MetLife (NYSE:MET) and Majesco (NYSEMKT:MJCO).               The IBM Insurance Platform will combine cognitive computing, data analytics, and security features to help insurers expand products and attract customers. The Platform builds on the IBM Cloud.?               Insurance software company Majesco contributed underwriting, policy administration, billings, and claims functions to the Platform.?               Majesco shares are?up 7.98%. ?? ??? ",0.9325,positive,0.8037756097560975
+51,2017-09-27,-0.833,Nvidia announces server partnerships for V100 accelerators,"
+        Nvidia (NASDAQ:NVDA) announces partnering with industry leaders for servers based on the company?�s Tesla V100 accelerators, advanced GPUs for compute-intensive workloads like artificial intelligence.?               Partners include Dell EMC, Hewlett Packard Enterprise (NYSE:HPE), IBM (NYSE:IBM), and Supermicro.?               The V100 GPUs feature more than 120 teraflops of deep learning performance with a single GPU equivalent to the performance of 100 CPUs.?               Nvidia shares are?up 1.06%. ?? ?????Previously: Bloomberg: Tesla replacing Nvidia with Intel for infotainment components (Sept. 26) ",0.9169,positive,0.8037756097560975
+52,2017-09-19,-0.14800000000000002,"IDC: EMEA external storage systems value fell in Q2, Dell and HPE lead market","
+        EMEA external storage systems value fell 2.9% in Q2 in dollars but stayed fairly flat in Euros, according to IDC.               The all-flash market accounted for around one-quarter of the total market, achieving 53.1% growth in dollars. Hybrid arrays declined 3.1% and HDD-only systems fell 25.7%.?               Western Europe?�s storage market was down 1% in dollars and up 1.9% in euros.?                  Central and Eastern Europe, the Middle East, and Africa declined 9%.                   Top EMEA external disk storage vendors (market share / YoY growth): Dell, $409.58M (26.85%/-20.36%); Hewlett Packard Enterprise (NYSE:HPE), $248.61M (16.29%/-6.97%); NetApp (NASDAQ:NTAP), $246.69M (16.17%/+15.91%); IBM (NYSE:IBM) $163.31M (10.7%/+0.39%).? ???Previously: Worldwide AR/VR market up 25.5% in Q2, Samsung leads (Sept. 5) ",0.9478,positive,0.8037756097560975
+53,2017-09-18,-0.25,Juniper Research: IBM seen as blockchain leader over Microsoft,"
+        IBM (NYSE:IBM) outranks Microsoft (NASDAQ:MSFT) as blockchain industry leader, according to a new study from Juniper Research.               According to a survey, 40% of blockchain execs and leaders ranked IBM as the industry leader while 20% said Microsoft takes the top spot.?               Juniper Research said in July that 57% of the world?�s large corporations were considering blockchain deployments.? Research and Markets expects the global blockchain market to grow from $210.2M last year to $2.3B in 2021.??Previously: IBM, food suppliers announce new blockchain tech partnership (Aug. 22) ",0.9574,positive,0.8037756097560975
+54,2017-09-15,-0.6659999999999999,AWS gets boost from Defense Department,"
+In a major step for the cloud computing giant, Amazon Web Services (NASDAQ:AMZN) has a new market for its analytics and storage services.This week, the U.S. Defense Department granted the company a provisional authorization to host Impact Level 5 workloads, which are the military and Pentagon?�s most sensitive, unclassified information.Only two other companies, IBM and Microsoft (NASDAQ:MSFT), are able to store the material. ",0.8328,positive,0.8037756097560975
+55,2017-07-19,-5.9239999999999995,IBM announces opening of four new data centers,"
+        IBM (NYSE:IBM) announces the opening of four new data centers, bringing the company total to nearly 60 in 19 countries.                  The data centers include two in London, one in Sydney, and one in San Jose, California.                   In 2016, IBM expressed a desire to triple its cloud data center capacity in the UK. The two new centers bring the regional total up to five.?               IBM has become more reliant on cloud revenues as other core businesses decline.?Previously: IBM posts 21st straight revenue decline; shares down 1.5% aftermarket (July 18) ",0.9559,positive,0.8037756097560975
+56,2017-07-19,-5.9239999999999995,Analysts cut IBM price targets after Q2 revenue miss,"
+        Cantor Fitzgerald cuts its IBM (NYSE:IBM) price target from $166 to $154 and maintains its Neutral rating.               Analyst Joseph Foresi cites deceleration of the company?�s Strategic Imperatives focus, which includes cloud and mobile, and the double-digit decline in IBM?�s core business.?               Meanwhile, Jefferies lowers its IBM price target from $154 to $125 with an Underperform rating.?               IBM shares are?down 2.79%?premarket.??Previously: IBM posts 21st straight revenue decline; shares down 1.5% aftermarket (July 18) ",0.5957,positive,0.8037756097560975
+57,2017-07-17,-1.126,"Barclays lowers IBM price target, EPS guidance","
+        Barclays maintains an Underweight rating on IBM (NYSE:IBM) and drops the price target from $141 to $132.               Analyst Mark Moskowitz sees a stretched valuation multiple and thinks the company should lower its FY EPS guidance to under $13.?               Analyst guidance lowered: FY17 EPS to $12.89 (was $13.50) and FY18 EPS to $13.06 (was $13.83).?               Source: StreetInsider. ??? ?? ",-0.3657,negative,0.8037756097560975
+58,2017-07-17,-1.126,New era of encryption: IBM Z,"
+Jumping further into the financial cybersecurity market, Big Blue has launched a new mainframe system capable of running more than 12B encrypted transactions per day with any application, cloud service or database.""We think this will be broadly adopted across financial services, government, retail and travel and transportation,"" said Ross Mauri, general manager of IBM Z. ""The encryption is critical for all industries."" ",0.5771,positive,0.8037756097560975
+59,2017-07-13,-0.064,Sun Valley conference gets underway,"
+The annual Allen & Co. conference, gathering some 300 media and tech CEOs, plus some of the most powerful investors in the world, is underway in Sun Valley, Idaho.Details about the gathering are typically kept secret, but insiders have described the event as a ""summer camp for billionaires.""Among the big names on the guest list: Tim Cook, Mark Zuckerberg, Jeff Bezos, Bill Gates, Warren Buffett, Ivanka Trump and Jared Kushner. ",0.9024,positive,0.8037756097560975
+60,2017-06-30,-0.275,Certent acquires IBM finance and management products,"
+        Financial software company Certent announces a definitive agreement with IBM (NYSE:IBM) to acquire a suite of cloud products. IBM will remain as a reselling partner. No financial details disclosed.               Certent offers software and services for financial disclosure management and report as well as equity compensation tools.?               Acquired products: IBM Cognos Disclosure Management, Cognos Disclosure Management on Cloud, Cognos Financial Statement Reporting, and Clarity 7, a corporate management product.? ",0.9164,positive,0.8037756097560975
+61,2017-06-27,-0.44,Blockchain moves into mainstream finance,"
+Meet the ""Digital Trade Chain Consortium.""IBM is building a blockchain-based platform for seven big European banks that will simplify finance transactions for small- and medium-sized businesses.The project, which aims to be up-and-running by the end of the year, will mark one of the first real-world use cases of blockchain technology for financial institutions.Related tickers: DB, HSBC, OTCPK:KBCSY, OTCPK:NTXFY, OTCPK:SCGLY, OTCPK:UNCFY ",0.4735,positive,0.8037756097560975
+62,2017-06-23,-0.266,Western tech firms sharing cyber secrets?,"
+According to a Reuters investigation, Cisco (NASDAQ:CSCO), IBM, SAP and other Western tech firms are acceding to demands by Moscow to access security product source code to determine whether foreign spy agencies hid any ""backdoors.""While a number of U.S. businesses are playing ball to preserve their entree to Russia's huge tech market, at least one U.S. firm, Symantec (NASDAQ:SYMC), has stopped cooperating over security concerns. ",0.8334,positive,0.8037756097560975
+63,2017-06-21,-1.062,IBM strategy centering around data,"
+""If I had to pick one word that IBM's reinventing around, it's 'data,'"" CEO Ginni Rometty told Mad Money host Jim Cramer.""The cloud is in its early stages and it's changing,"" she declared, emphasizing IBM's current focus on collecting data.""20% of the world's data is searchable... ""But 80% of the world's data, which is where I think the real gold is - that is all with our clients. ",0.4496,positive,0.8037756097560975
+64,2017-06-14,-0.40299999999999997,"IBM, BMW partner on connected cars","
+Deepening its move into passenger vehicles, IBM is pairing with BMW (OTCPK:BMWYY) to provide cloud-based data management for the automaker's recently launched connected car initiative.Last year, IBM announced a similar deal with General Motors.BMW officially launched its CarData program last month, which is designed to link some 8.5M vehicles equipped to transfer data. ",0.8115,positive,0.8037756097560975
+65,2017-06-13,-0.852,"IBM, Hortonworks extend data science partnership","
+        IBM (NYSE:IBM) and Hortonworks (NASDAQ:HDP) announce an expansion of the data science and machine learning partnership to allow customers to analyze and manage large volumes of data across the Apache Hadoop ecosystem.               The integrated solution fuses Hortonworks Data Platform with IBM?�s Data Science Experience and Big SQL. Each company will sell the others??products as parts of their own official product line.Hortonworks shares are?up 7.12%. ?? ",0.9551,positive,0.8037756097560975
+66,2017-05-17,-2.5180000000000002,"Bombardier, IBM sign $700M IT deal","
+Bombardier (OTCQX:BDRAF, OTCQX:BDRBF) has awarded IBM a $700M contract to find cost savings and improve IT operations in its rail and aerospace businesses.The six-year agreement spans 47 countries and will ""generate recurring savings.""""Bombardier is working to improve productivity, reduce costs and grow earnings,"" said Sean Terriah, CIO for aerospace and corporate functions. ",0.9388,positive,0.8037756097560975
+67,2017-04-25,-0.326,International Business Machines declares $1.50 dividend,"
+International Business Machines (NYSE:IBM) declares $1.50/share quarterly dividend, 7.1% increase from prior dividend of $1.40.Forward yield 3.7%Payable June 10; for shareholders of record May 10; ex-div May 8. ",0.8285,positive,0.8037756097560975
+68,2017-04-25,-0.326,"ABB, IBM partner on industrial AI","
+ABB has sealed a collaboration agreement with IBM, combining its digital offering, which gathers information from machinery, with Big Blue's expertise in AI (featured in its Watson data analytics software).""This powerful combination marks truly the next level of industrial technology... and takes actions that drive greater uptime, speed and yield,"" said ABB CEO Ulrich Spiesshofer. ",0.944,positive,0.8037756097560975
+69,2017-04-25,-0.326,IBM holds shareholder meeting,"
+When IBM shareholders gather today, they?�ll be asked to sign off on a $33M pay package for CEO Ginni Rometty.It's a hefty sum for any chief executive, let alone one who's overseen five years of falling revenue and left shareholders with a total return of less than 0.1%.According to proxy adviser ISS, her 2016 pay package may actually exceed $50M, based on its own estimate of her stock options.The meeting will take place at 10 a.m. in Tampa, Florida. ",0.8432,positive,0.8037756097560975
+70,2017-04-19,-7.581,"IBM -5% after disappointing earnings, trimmed price targets","
+ IBM is 5% lower today, and touching its lowest point since November, in the wake of an earnings report considered lackluster at best. Revenues continued to fall, and while several analysts are reiterating their existing ratings, Societe Generale has cut the stock to Sell. With SocGen on the Sell side is Jefferies, which lowered its price target to $135 from $145, implying 16.5% downside from today's already lowered price. Investors may not be fully appreciating pressures the company faces in its Software Group and Services unit, where competitive heat is rising. It didn't like the quality of the earnings given an artificially low tax rate at the company. It's a ""tepid report,"" says Goldman Sachs, which is staying Neutral but lowered its target to $170 from $175. Along with other analysts, James Schneider is a bit skeptical of IBM guidance, which suggests a big margin ramp in the second half. The back-loaded guidance raises questings about EPS quality, agrees RBC's Amit Daryanani, who cut his price target to $180 from $185. But he's encouraged that free cash flow might be flat in 2017.  ",0.9482,positive,0.8037756097560975
+71,2017-04-18,-0.9520000000000001,IBM -3.6% as quarterly revenue drops yet again,"
+ IBM is 3.6% lower in aftermarket trade after its Q1 revenues marked the 20th straight quarter of Y/Y declines, and missed expectations significantly. Revenues fell 2.8% to $18.16B vs. an expected $18.39B, though EPS of $2.38 beat the Street. Strategic imperatives revenue was up 12% to $7.8B, the company notes, and it rose to 42% of revenue over the past 12 months ($33.6B). Revenue by segment: Cognitive Solutions, $4.06B (up 2.1%); Global Business Services, $4.01B (down 3%); Technology Services and Cloud Platforms, $8.22B (down 2.5%); Systems, $1.4B (down 16.7%); Global Financing, $405M (down 1.2%). The company reiterated its guidance for the full year, of operating (non-GAAP) EPS of at least $13.80 (vs. consensus for $13.78) -- adjusting for acquisition-related charges of $0.75/share and non-operating retirement-related items of $1.10/share. Net cash from operations was $4B for the quarter ($1.9B excluding Global Financing receivables). Free cash flow was $1.1B. Conference call to come at 5 p.m. ET. Press Release  ",0.9202,positive,0.8037756097560975
+72,2017-04-18,-0.9520000000000001,"International Business Machines beats by $0.03, misses on revenue","
+International Business Machines (NYSE:IBM): Q1 EPS of $2.38 beats by $0.03.Revenue of $18.16B (-2.8% Y/Y) misses by $230M.Shares -2.4%.Press Release ",0.0991,positive,0.8037756097560975
+73,2017-04-11,-0.562,"Huawei moving heavily into public cloud with eyes on Amazon, Alibaba","
+ Huawei plans to take on a pair of giants as it moves into public cloud services. The upstart telecoms equipment maker targets Amazon.com (NASDAQ:AMZN) and Alibaba (NYSE:BABA) as it pursues an expansion with a dedicated cloud division that will add 2,000 jobs this year, it says. That should provide a new software-based revenue stream even as spending on smartphones and telecom infrastructure (Huawei's focus) goes on the decline. It faces a challenge in China from Alibaba Cloud -- which is also a client of Huawei infrastructure and services -- but it also squares off against a new entrant, a combination between Dalian Wanda and IBM (NYSE:IBM). As for Amazon and Microsoft (NASDAQ:MSFT): ""Compete and coexist with AWS and Microsoft, I believe that is the trend we are going to see,"" says Huawei Deputy Chairman Eric Xu. Premarket: AMZN +0.1%; BABA -0.2%; IBM -0.2%; MSFT +0.1%.  ",0.919,positive,0.8037756097560975
+74,2017-04-10,-0.852,IBM bear says free cash flow is overstated,"
+After pulling out one-time items like a lower tax rate, Bernstein?�s Toni Sacconaghi figures IBM's 2016 free cash flow was more like $9.1B, rather than the $11.9B reported. He expects FCF will be inflated by one-time items again this year.His comments today follow last week's note that IBM's multiple of free cash flow had ""expanded materially"" over the past few years.Sacconaghi has a Market Perform rating on IBM, with $150 price target suggesting?12% downside. ",0.8918,positive,0.8037756097560975
+75,2017-03-17,-1.442,IBM hiring 2K U.S. veterans,"
+Component of a prior-disclosed initiative to hire 25K U.S. workers through 2020, IBM (NYSE:IBM) notes 2K positions, primarily for what the company defines as?""new collar jobs,"" ?will be allocated for veterans.Previously (December 13, 2016): IBM plans $1B investment in U.S. employees, hiring of 25,000 over next four years ",0.2582,positive,0.8037756097560975
+76,2017-03-14,-0.6709999999999999,Aerospace firms back U.S. tax overhaul,"
+About 90 aerospace companies have signed a letter to Congress, stating a set of changes Republicans proposed last year will make them more competitive globally and help create U.S. jobs.The plan would cut the U.S. corporate tax rate to 20% from 35%, permit immediate deductions for capital investment and introduce a border adjustment tax system.Related tickers: BA, RTN, LMT, GE, NOC, HON, COL, GD, HRS, IBM, LLL ",0.8442,positive,0.8037756097560975
+77,2017-03-13,-1.242,"Lloyds, IBM in IT outsourcing deal","
+Lloyds (NYSE:LYG) is set to agree a 瞿1.3B contract with IBM to outsource many of its computer systems and shift more than 1,900 jobs to the IT services provider.The deal, which will see most of the transferred employees lose their jobs after four years, is designed to cut almost 瞿760M of costs while making Lloyds more nimble and responsive to changes in technology. ",0.3246,positive,0.8037756097560975
+78,2017-02-24,-0.272,"IBM Research, Vermont Electric Power Company form 'Utopus Insights'","
+A corporation targeting intelligent energy analytics solutions, Utopus Insights will be headquartered in Valhalla, New York. IBM Research's (NYSE:IBM) existing Smarter Energy team and associated technology and intellectual property are planned for integration into the operation.Vermont Electric Power Company [VELCO] is involved as an investor and strategic partner, with the venture scheduled for launch in Q1 2017.Press release ",0.9814,positive,0.8037756097560975
+79,2017-01-31,-1.1520000000000001,International Business Machines declares $1.40 dividend,"
+International Business Machines (NYSE:IBM) declares $1.40/share quarterly dividend, in line with previous.Forward yield 3.22%Payable March 10; for shareholders of record Feb. 10; ex-div Feb. 8. ",0.6833,positive,0.8037756097560975
+80,2017-01-13,-0.5489999999999999,Credit Suisse reiterates underperformance for IBM,"
+Analyst Kulbinder Garcha: ""We see little inflection within the business fundamentals and specifically see the structural profitability may continue to erode."" Expects IBM (IBM -0.5%) to miss Q4 2016 consensus estimates and guide 2017 below expectations.IBM's Q4 2016 earnings release to post January 19.Yesterday (January 12, 2017): Morgan Stanley reissues Overweight IBM stance ",0.1323,positive,0.8037756097560975
+81,2017-01-10,-1.916,IBM partners with Wall Street on blockchain,"
+Wall Street's largest back-office processing service is partnering with IBM (NYSE:IBM) to upgrade how payments and record-keeping for credit-default swaps are handled by putting the system on a blockchain by early next year.""This will be one of the first globally where we are using distributed ledger technology to become a piece of the infrastructure in a very critical market,"" said Depository Trust & Clearing Corp. CEO Michael Bodson. ",0.8663,positive,0.8037756097560975
+82,2016-12-16,-1.161,"Morgan Stanley Overweight on IBM, Samsung Electronics and more into 2017","
+Analyst Katy Huberty cites three themes she expects to contribute to fundamental and stock performance in the new year ??accelerated iPhone upgrades (OLED displays, camera and battery improvements), cloud adoption, and virtual reality and autonomous vehicles (component suppliers).On this view, considers as most-likely beneficiaries and sets Overweight ratings for IBM (IBM -0.9%), Quanta Computer, Samsung Electronics (OTC:SSNLF), Sony (SNE -1.4%) and TDK (OTCPK:TTDKY) heading into 2017. ",0.7922,positive,0.8037756097560975
+83,2016-12-15,-0.441,Trump-Pence transition team updates on tech summit,"
+Noting discussion took place on the following topics ??job creation for U.S. workers, removal of barriers preventing U.S. companies from doing business in other countries, U.S.-China trade dynamic and market access, tax cuts and repatriation of U.S. profits held overseas, bettering of physical and digital infrastructure, intellectual property rights protection, cybersecurity improvements, updates to government software systems, technology in schools, a need for greater vocational education opportunities, bureaucracy reduction and increased accountability in the government procurement process.Private sector players in attendance included Tim Cook (NASDAQ:AAPL), Jeff Bezos (NASDAQ:AMZN), Elon Musk (NASDAQ:TSLA), Satya Nadella (NASDAQ:MSFT), Larry Page and Eric Schmidt (GOOG, GOOGL), Sheryl Sandberg (NASDAQ:FB), Ginni Rometty (NYSE:IBM), Brian Krzanich (NASDAQ:INTC), Safra Catz (NYSE:ORCL), Chuck Robbins (NASDAQ:CSCO), Alex Karp (PALAN) and others.Suggestion for reconvening of similar meetings, prospectively on a quarterly basis, was furthermore offered.Full readout ",0.9613,positive,0.8037756097560975
+84,2016-11-29,-0.8909999999999999,IBM selected cloud provider for American Airlines,"
+The world's largest airline, American Airlines, will migrate certain enterprise applications to IBM Cloud.IBM's cloud offering spans 50 data centers across 17 countries and enables application development through IBM Bluemix. The airline will additionally gain access to IBM's advanced analytics capabilities and associated technologies.IBM (NYSE:IBM) and American Airlines have maintained a relationship since the 1950s. ",0.8245,positive,0.8037756097560975
+85,2016-11-22,-0.09,Goldman's list of shorts mattering most to hedge funds,"
+With $4.5B of short interest, Exxon Mobil (NYSE:XOM) leads the way, followed by IBM at $3.7B. Rounding out the top ten: AT&T (NYSE:T), Caterpillar (NYSE:CAT), Chevron (NYSE:CVX), Boeing (NYSE:BA), GE, Procter & Gamble (NYSE:PG), Abbot Labs (NYSE:ABT) and Disney (NYSE:DIS).Most interesting from that list are Cat, Boeing, and Abbot Labs as their market caps are significantly smaller than the other seven.Of the top 50 short positions, there are two names in which the short interest rises to as high as 10% of the market cap: Freeport-McMoRan (NYSE:FCX) and Digital Realty Trust (NYSE:DLR).Previously: Goldman's list of stock longs mattering most to hedge funds (Nov. 22) ",0.9301,positive,0.8037756097560975
+86,2016-11-22,-0.09,IBM invests in U.K. data centers,"
+IBM Cloud (NYSE:IBM) is making the largest commitment it has ever made to one country at a single point in time after tripling its cloud capacity in the U.K.The move will see Big Blue open four new data centers to keep pace with soaring client demand.It follows a better-than-expected third quarter for IBM, which saw its cloud as a service revenue reach $7.5B. ",0.8066,positive,0.8037756097560975
+87,2016-10-18,-3.611,IBM rated tepidly following Q3 earnings,"
+Yesterday: IBM volatile after hours; Q3 revenue unmoved, FY guidance reiteratedOn the report, Wells Fargo analyst Maynard Um restates a Market Perform rating, though lowers his target price range from $155-$165 to $150-$160 (current price $149.73), citing revenue gains in certain segments (strategic imperatives, IP)?that were offset by other factors (gross margin, okay software improvement), an EPS figure higher due to lower tax rate and strategic imperatives reinvestment he expects to restrict upside near-term.RBC Capital Markets' Amit Daryanani, also citing EPS quality, further points out challenging gross margins across business lines and difficult EPS and free cash flow growth going forward. Rates Sector Perform with a $165 target.James Kisner at Jefferies notes okay strategic imperatives growth, weakness in organic software and services signings along with a guidance reiteration he believes some investors may essentially consider to be a guide lower. Restates Underperform and $125 target.IBM (NYSE:IBM)?shares are presently?down 3.4%?since yesterday's close. ",0.9494,positive,0.8037756097560975
+88,2016-10-11,-1.9880000000000002,"Alphabet and 3M, IBM and Siemens introduce respective population health management partnerships","
+Alphabet's (GOOG, GOOGL) Verily Life Sciences and 3M (MMM -0.7%) are targeting clinical and financial performance management technology intended to analyze data and provide insightful information revolving around healthcare quality and costs.Alphabet: ""We have the data analytics and software to understand trends and make predictions across large quantities of data, and we see a clear opportunity to apply this approach to health data for insights that can impact care.?Together, with 3M's know-how and deep expertise in parsing and coding clinical data, we imagine a world where providers have precise information to guide focused improvement, and can consistently access objective, actionable feedback to make informed decisions.??M: ""At 3M, we are constantly evaluating how health information technology can help improve the efficiency, quality and cost of delivering care.?This collaboration reflects our commitment to continued innovation in health information systems that address real-world problems facing health care today, while protecting the privacy and security of health data.?�IBM (IBM -0.9%)?and Siemens (OTCPK:SIEGY), through a five year arrangement, are looking to aid hospitals, health systems, integrated delivery networks and other providers in bringing value-based care to patients with complex, chronic and expensive conditions.IBM: ""We are at an unprecedented time in healthcare. Mature and developing markets are increasingly focused on how patient outcomes are optimized, quality is standardized among individuals and across populations, and costs are reduced. Siemens and IBM are ideal partners to work at the forefront of this evolution and enable personalized healthcare in the?U.S.?and globally.""Siemens: ""Combining our strengths, Siemens Healthineers and IBM can effectively help providers transition to a value-based healthcare environment. We will bring the power of Siemens Healthineers' extensive?relationships with providers and our deep domain expertise in clinical workflows, services, and digital health technologies to bear to help bring population health management offerings to healthcare providers. The new alliance fits perfectly into the services business of Siemens Healthineers. Thus we will enter the rapidly growing PHM market which is expected to play a significant role in end-to-end value-based healthcare.""Alphabet, 3MIBM, SiemensLast week: Alphabet's Verily Life Sciences adopts automated lab strategies in Zika-prevention effort ",0.9986,positive,0.8037756097560975
+89,2016-09-20,-0.374,IBM Research partners with MIT to improve field of machine vision,"
+Through a multi-year arrangement with MIT's?Department of Brain & Cognitive Sciences.IBM (IBM +0.5%): ""The new IBM-MIT Laboratory for Brain-inspired Multimedia Machine Comprehension's (BM3C) goal will be to develop cognitive computing systems that emulate the human ability to understand and integrate inputs from multiple sources of audio and visual information into a detailed computer representation of the world that can be used in a variety of computer applications in industries such as healthcare, education, and entertainment.""Pattern recognition and predictions methods relating to audio and visual data streams highlighted as a main focus.Collaboration to be led by MIT?Professor James DiCarlo (head of Department of Brain & Cognitive Sciences) and involve brain, cognitive and computer scientists.With the spotlight on machine vision and computer vision technology heightened of late (Tesla and Mobileye, Intel and Movidius), expect further developments in these areas from a range of companies going forward. ",0.9491,positive,0.8037756097560975
+90,2016-08-15,-0.062,Workday inks deal to use IBM cloud services,"
+Workday (NYSE:WDAY) is expected to announce a seven-year deal today to use IBM's cloud-computing services for some internal operations, sources told WSJ.The deal, in which Big Blue is winning a marquee customer with solid cloud credentials, comes soon after two recent reports from analysts raised questions about IBM's ability to compete in the contentious market for computing horsepower delivered over the internet. ",0.8333,positive,0.8037756097560975
+91,2016-08-12,-1.409,Bernstein analyst Toni Sacconaghi comments on IBM's slowing strategic imperatives revenue,"
+Sacconaghi cites IBM's (IBM -1%) core revenues declining by $29.7B over the past five years, total revenue declines in each of the last four years and materially slowing strategic imperatives growth (7% on a constant currency basis in Q2). Strategic imperatives grew 22% and 16% in FY 2015 and FY 2014, respectively. He believes the company needs this segment to grow around 15% in FY 2017 to achieve a flat organic revenue result, factoring in core business decline.He further notes: ""Given that there is likely some shift in customer buying behavior from IBM?�s ?�older??offerings to its ?�new??offerings, we might have expected the recent slowdown in IBM?�s strategic imperatives to lead to more modest declines in the legacy/core??which has not been the case.""He maintains a Market Perform rating and $140 price target ($161.87 current price).Revenue mix infographic ",0.8621,positive,0.8037756097560975
+92,2016-07-26,-0.469,International Business Machines declares $1.40 dividend,"
+International Business Machines (NYSE:IBM) declares $1.40/share quarterly dividend, in line with previous.Forward yield 3.46%Payable Sept. 10; for shareholders of record Aug. 10; ex-div Aug. 8. ",0.6936,positive,0.8037756097560975
+93,2016-07-19,-0.248,This new data storage method is 100x more dense than today's most efficient hard drive,"
+Scientists reveal method for storing rewritable digital data at record density.Involves rearranging individual chlorine atoms on a sheet of copper.Provides roughly 100x more data per square inch than the world's most efficient hard drive.Could write the entire contents of the Library of Congress in a space smaller than a dust mite.Key challenge is speed.Source links:?Nature, Popular MechanicsAlso see Richard Feynman's There's Plenty of Room at the Bottom lectureDisk drive stocks: OTCPK:CBEX, EMC, HILL, HTCH, IBM, IMN, IVAC, NTAP, QBAK, SXCL, SMIT, STX, VECO, WDC ",0.8067,positive,0.8037756097560975
+94,2016-07-15,-0.442,Morgan Stanley positive ahead of IBM's Q2 reporting,"
+Morgan Stanley analyst?Katy Huberty is upbeat on IBM (IBM -0.8%), restating an?Overweight rating with a price target of $168 ahead of earnings set for release on Monday (current price $159).Initiatives in?analytics, cloud, mobile, security, and social are noted as having a growing share in revenue, up 37% in Q1 2016 compared to 30% in early 2015.She also pegs this growing percentage as a key factor in the balancing of recent overall revenue slowdowns, adding that sales are on track to improve by next year with constant currencies worked into these projections.Citing 20% revenue acceleration in Q1 over 12% last year, IBM Security is highlighted in the note as an area with even further room to grow.IBM Watson hauling in $1.1B in recently gained revenue also observed.Viewing consensus revenue estimates as excessively cautious, Huberty's recent checks have led her to a more confident overall outlook. ",0.972,positive,0.8037756097560975
+95,2016-07-15,-0.442,Bet on these 'laggards' in Q3 - Fundstrat,"
+Thomas Lee from Fundstrat Market &?Equity Research (""our research process combines both top-down strategy and bottoms-up fundamental views, to develop a roadmap of practical and useful investment insights for our clients"") identifies 15 stocks that meet his criteria for his current ?�highest conviction??strategies, which he calls ?�laggards become leaders??and ?�stocks are the new bonds.?�The following stocks are in 1 of 16 groups that have lagged in the bull market (laggards), and have dividend yield greater than the their long-term bond yield (stocks are the new bonds): APD, CAT, CSCO, CVX, HP, IBM, OXY, PCAR, PG, PX, RL, SLB, T, VZ, XOM. ",0.7444,positive,0.8037756097560975
+96,2016-07-15,-0.442,IBM unveils new blockchain cloud service,"
+IBM has launched a platform for companies to test ""blockchain"" record-keeping technology in their supply chains, combining its existing blockchain cloud offering and IBM LinuxONE.The service is an attempt to expand the use of the technology beyond the financial services industry, where it underpins the bitcoin digital currency and is used by banks and exchanges to track financial transactions. ",0.7941,positive,0.8037756097560975
+97,2016-06-24,-7.744,Oi bankruptcy rattles global supply chain,"
+Tremors from Brazil's biggest bankruptcy filing are extending far beyond the recession-hit country's borders.Oi (OIBR) is seeking creditor protection on over $150M of accounts payable to international providers from Nokia (NYSE:NOK) and Ericsson (NASDAQ:ERIC) to IBM and Alcatel-Lucent.The fixed-line carrier also owes about $1B to foreign development banks in China, Finland, Canada and Germany. ",0.9385,positive,0.8037756097560975
+98,2016-04-29,-0.9890000000000001,IBM launches cloud-based blockchain services for businesses,"
+
+With the help of ""security experts, cryptographers, hardware experts and researchers,"" IBM (IBM -0.8%) says it has created a slew of cloud services meant to enable secure blockchain networks, along with cloud apps leveraging them. Financial services, healthcare, and government clients are among the firms being targeted.
+BNY Mellon is an initial user of the service - the bank plans to create ""a unique application for securities lending, using a blockchain network to trade and transfer assets."" IBM promises its cloud platform will ""allow production blockchain networks to be deployed in minutes,"" while supporting Docker containers (alternatives to server virtual machines that run on Linux and feature little overhead), data dashboards, and analytics tools.
+While the hype surrounding Bitcoin (COIN, OTCQB:BTCS) has cooled some, corporate interest in the blockchain - the distributed/encrypted ledger technology that powers Bitcoin and other cryptocurrencies - for enabling cheap and secure transactions remains high. JPMorgan, Goldman, and other i-banks unveiled plans last year to create standards for using blockchain in the financial industry. In March 2015, Reuters reported IBM has held informal talks with central banks about creating a system for enabling blockchain-based transactions that don't require a bank or payment processor.
+IBM exec Jerry Cuomo: ""We love blockchain technology because it holds the promise of supporting a very wide variety of industries ... But if you are building a blockhchain that deals with health records or shipping logistics, financial data, or any reference data about products, there are rules regulatory rules and security you have to address."" He asserts IBM's solution was designed with those security/compliance issues in mind.
+Online retailer Overstock (OSTK -2.1%) has also been making big blockchain investments; it's eight months removed from buying financial order-routing firm SpeedRoute to provide an infrastructure for its t0 blockchain software.
+Now read IBM's Next Big Thing
+
+ ",0.9972,positive,0.8037756097560975
+99,2016-04-14,-0.061,Morgan Stanley selects 30 stocks to hold until 2019,"
+ Morgan Stanley identifies 30 stocks for investors to snap up and hold until 2019. The investment firm narrowed its list by focusing on strong brands/franchises with distinct competitive advantages, while also scoring strong on pricing power, cost efficiency, and growth. The MS list includes?Accenture (NYSE:ACN), Alphabet, Amazon.com, Apple, Blackstone Group (NYSE:BX),Comcast (NASDAQ:CMCSA), Constellation Brands (NYSE:STZ), CVS Health (NYSE:CVS), Danaher (NYSE:DHR), Dollar General (NYSE:DG), Estee Lauder (NYSE:EL), Facebook, First Republic Bank (NYSE:FRC), HCA Holdings (NYSE:HCA), International Business Machines (NYSE:IBM), JPMorgan Chase, L Brands (NYSE:LB), Mettler-Toledo (NYSE:MTD), NextEra Energy (NYSE:NEE), Nike (NYSE:NKE), Panera Bread (NASDAQ:PNRA), Philip Morris International (NYSE:PM), Public Storage (NYSE:PSA), Ross Stores (NASDAQ:ROST), SBA Communications(NASDAQ:SBAC), ServiceMaster (NASDAQ:SERV), T-Mobile (NASDAQ:TMUS), Visa (NYSE:V), WhiteWave Foods (NYSE:WWAV), and Zayo Group Holdings (NYSE:ZAYO).  ",0.9892,positive,0.8037756097560975
+100,2016-03-23,-2.364,Nuance falls on news Google is opening up its voice recognition API,"
+
+At its GCP Next 2016 cloud user conference, Google (GOOG, GOOGL) has unveiled a Cloud Speech API that provides voice recognition services for third-party apps.
+The API supports 80+ languages, and can work in either real-time streaming and batch mode. Notably, Google (has made huge A.I./machine learning investments) says the API will rely on the same neural network powering voice search used by Google's search and keyboard apps. It will initially be free to use; Google plans to eventually charge, while offering low-cost pricing tiers.
+VR software leader Nuance (NUAN -4.2%), which claims an ecosystem of 30K+ developers, has sold off on the news. In December, Nuance unveiled its Mix platform, which provides developers working on mobile apps and IoT devices with SDKs that can be used to embed voice recognition and text-to-speech functionality.
+Also announced by Google: Cloud Machine Learning, a platform that allows developers using Google's cloud infrastructure to add A.I./machine learning functionality to their apps. The service could compete against IBM's Watson Developer Cloud platform.
+ ",0.9757,positive,0.8037756097560975
+101,2016-02-29,-0.8759999999999999,"IBM buying cybersecurity software firm, creating new services business","
+
+Continuing its recent M&A spree, IBM (IBM +0.3%) is acquiring Resilient Systems, a provider of incident-response security software to 100+ Fortune 500 and mid-sized companies. Terms are once more undisclosed.
+
+Resilient's platform is declared to automate and orchestrate ""the many processes needed when dealing with cyber incidents from breaches to lost devices."" It features Privacy, Security, and Action modules, and integrates with numerous third-party security apps.
+In tandem with the purchase, IBM is creating a new services business (called X-Force Incident Response Services) that will rely on 3,000 consultants and security researchers to help companies ""plan for, manage, and respond to cyberattacks."" Resilient's software will help underpin the services, and will also be integrated with Big Blue's QRadar security intelligence platform and other security products.
+FireEye's Mandiant unit is a major player in the incident-response services space. Microsoft and Cisco have also shown an interest in this space.
+
+Two weeks ago: IBM buying healthcare analytics firm Truven for $2.6B
+Other recent IBM acquisitions
+ ",0.9917,positive,0.8037756097560975
+102,2016-02-29,-0.8759999999999999,Buffett speaks,"
+
+Buying IBM could be a mistake, says Warren Buffett (BRK.A, BRK.B), but he hasn't sold a share and continues to expect it to be worth more in the future (though ""Charlie's neutral"").
+On another troubled holding, American Express (NYSE:AXP), Buffett says it's a business that has always had to adapt, and now is no different. ""It's a very strong brand, but you are going to face a lot of competition on payments.""
+On yet another roughed-up name, Bank of America (NYSE:BAC), The Oracle says CEO Brian Moynihan has done a great job after inheriting a bad hand.
+Buffett is unlikely to be an owner of Dow Chemical's (DOW) common stock, and likes the preferred more. He owns $3B of preferred from 2009 that pay an 8.5% annual dividend. Converting would amount to about 6% of the common float.
+Of troubled names in general, Buffett reminds Berkshire Hathaway's stock price has dipped 50% three different times since he began controlling it. ""It was terrific!"" A stock going down is a good thing, unless the company itself is losing value.
+Live blog of CNBC interview
+ ",0.9915,positive,0.8037756097560975
+103,2016-01-25,-0.364,CLSA downgrades SanDisk to Underperform; Western buys IBM patents,"
+
+Citing higher deal risk and weakening NAND fundamentals, CLSA's Mark Heller has downgraded SanDisk (SNDK -1.6%) to Underperform, and cut his target by $16 to $70.
+Heller doesn't think weakening fundamentals will unravel Western Digital's (WDC -2.2%) pending cash/stock acquisition of SanDisk, but is worried about the potential for Tsinghua Unigroup subsidiary Unispendour to walk away from its deal to buy a 15% stake in Western for $92.50/share (107% above Western's Friday close).
+If Unisplendour was to walk away, Heller sees Western shareholders deciding on the SanDisk deal. The deal calls for Western to pay $85.10 in cash and issue 0.0176 shares for each SanDisk share provided the Unisplendour investment has closed prior to the acquisition. If it hasn't, the cash payout drops to $67.50, and the stock payout rises to 0.2387 shares. SanDisk currently trades below $67; deal closing has been forecast to occur in calendar Q3.
+Separately, Western has announced the purchase of over 100 IBM ""patent assets"" related to distributed storage, object storage, and non-volatile memory, as well as a cross-licensing deal with the IT giant; terms are undisclosed. Western says the purchase will augment an existing portfolio of 10K+ patents and patent applications.
+SanDisk's Q4 report arrives on Wednesday. Western's FQ2 report is due on Thursday.
+ ",0.9841,positive,0.8037756097560975
+104,2016-01-22,-0.355,Northland: Splunk close to major alliance with IBM,"
+
+
+IBM is nearing a ""big move to improve its ties"" with machine/log data analytics software leader Splunk (SPLK +2.6%), reports Northland Securities' Tim Klassell. He sees such a deal providing a ""nice tailwind"" for Splunk's efforts to win larger deals.
+FBR argued last month Splunk could be a 2016 IBM acquisition target, but it's worth noting Splunk would be much more costly than recent IBM analytics acquisitions. Regardless, Big Blue's ""business analytics"" revenue (covered a variety of analytics-related hardware, software, and services sales) totaled $17.9B in 2015 (up 7% Y/Y), and the company could provide Splunk with a massive army of sales, consulting, and IT personnel to sell and deploy the company's offerings.
+Splunk's current partner list includes Accenture, Cisco, Juniper, NTT, Palo Alto Networks, and VMware. Shares are moderately outpacing the Nasdaq's 2% gain.
+ ",0.979,positive,0.8037756097560975
+105,2016-01-20,-5.417000000000001,IBM near $122 post-earnings; new video acquisition reportedly planned,"
+
+
+Three months ago, IBM (IBM -4.6%) fell towards $140 after providing a 2015 EPS guidance cut to go with mixed Q3 results. Today, shares are almost $20 lower as markets react to the light 2016 guidance - EPS of ""at least"" $13.50, free cash flow of ~$11B-$12B vs. 2015's $13.1B - issued with Big Blue's slight Q4 beat. The S&P is down 0.5%, and the Nasdaq up 0.5%.
+Plenty of analyst have (unsurprisingly) cut their targets, but none have downgraded. Aside from forex pressures (expected to hurt 2016 EPS by over $1 as hedges roll off), plenty of concerns have been voiced about IBM's software ops, which were responsible for 46% of the company's 2015 segment op. profit ($9.1B out of $19.7B) and have been hurt by weak deal activity among top-250 clients.
+Jefferies' James Kisner (Underperform, $110 target) argues IBM still faces a tough transition as on-premise software and IT services demand continues to be pressured by SaaS/cloud adoption. He also estimates Q4 EPS would've been $4.54 (below a $4.81 consensus) if not for a lower tax rate, and states services signings of $16.7B fell short of a $19.1B consensus.
+RBC's Amit Daryanani (Neutral, $135 target): ""Based on tepid EPS/[free cash flow] guide and continued software declines, and System-Z entering the end of the mainframe cycle, we continue to stand on the sidelines."" Drexel Hamilton's Brian White (Buy, $160 target) remains bullish, calling EPS guidance conservative and talking up IBM's 4.1% dividend yield.
+Separately, Fortune reports IBM is in advanced talks to buy Ustream, a provider of live video streaming, transcoding, and delivery services for businesses, for $130M in cash + possible earn-out/retention payments. The report follows IBM's December acquisition of cloud video infrastructure service provider Clearleap, which the company plans to integrate with its existing cloud offerings.
+
+Fortune notes IBM and Ustream are already partners, with Ustream's offerings already integrated with IBM's Bluemix cloud app development platform. The startup's customers include Sony and NASA.
+
+Prior IBM coverage, earnings call transcript
+
+ ",0.9711,positive,0.8037756097560975
+106,2016-01-20,-5.417000000000001,Tech giants fall sharply as Nasdaq tumbles,"
+
+Tech large-caps aren't being spared as the Nasdaq drops 2.6%, and the S&P 2.7%, in the market's latest plunge. A slew of companies with $10B+ market caps are seeing declines that on many recent days were largely reserved for smaller ex-momentum plays.
+The casualty list includes Alibaba (BABA -5.3%), and that of course means Yahoo (YHOO -6%) is along for the ride. Top Alibaba rival JD.com (JD -6.2%) is also down strongly; Chinese macro fears continue to run high.
+Facebook (FB -4.9%), which (unlike most peers) remains well above where it traded 12 months ago, has fallen towards $90. Q4 results arrive on Jan. 27.
+Cisco (CSCO -5.2%) has fallen below $23. Possibly weighing: Piper's Troy Jensen has reported weak Q4 networking reseller survey results, and predicts Cisco will issue light FQ3 (April quarter) guidance next month with its FQ2 report. His FQ3 sales estimate has been cut by $400M to $11.9B (below a $12.07B consensus).
+DRAM/NAND flash maker Micron (MU -10.3%) is among the biggest decliners, with shares falling into the single digits. Micron now trades for 6.6x an FY17 (ends Aug. '17) EPS consensus of $1.48. Online payments leader PayPal (PYPL -4.4%) is having a rough day as well.
+IBM (IBM -4.7%), meanwhile, has made new multi-year lows after providing soft 2016 EPS guidance to go with a slight Q4 beat. Netflix (NFLX -6%) has sold off in spite of reporting strong Q4 subscriber adds.
+ ",0.7298,positive,0.8037756097560975
+107,2016-01-19,-1.6640000000000001,IBM issues soft 2016 EPS guidance; shares -4.1%,"
+
+
+IBM has guided on its Q4 earnings call (webcast) for 2016 EPS of ""at least"" $13.50. Consensus is at $15.00.
+Forex is expected to have an even larger impact on 2016 results than on 2015 results, thanks partly to the rolloff of forex hedges. Big Blue also notes software sales have been pressured by delayed signings for large deals and mix changes.
+IBM has dropped to $122.90 after hours, falling to its lowest levels since 2010 along the way.
+
+IBM's Q4 results, Q4 details
+
+ ",-0.3895,negative,0.8037756097560975
+108,2016-01-19,-1.6640000000000001,"IBM's Q4 EPS boosted by low tax rate, spending cuts; forex still a big headwind","
+
+Low tax rates continuing providing IBM an EPS lift: Big Blue's Q4 non-GAAP tax rate was 14.7%, down from 21.8% a year ago thanks to ""current period discrete items.""
+Also helping: SG&A spend fell 15% Y/Y to $5.2B, thanks to a mixture of job cuts, asset sales, and forex. R&D spend rose 3% to $1.4B. Gross margin fell 120 bps to 52.7%.
+
+Segment performance: Global Tech Services revenue -7.1% Y/Y to $8.1B; op. profit +4.5% to $1.5B. Global Business Services -9.9% to $4.3B; op. profit -8.6% to $4.3B. Software -10.7% to $6.8B; op. profit -21.4% to $3B. Hardware -1.4% to $2.4B; op. profit -10.1% to $349M. Global Financing -14.6% to $454M; op. profit +28.3% to $674M.
+
+Geographic performance: Americas revenue -8% Y/Y to $10.3B. EMEA -9% to $7.3B. Asia-Pac -10% to $4.4B. BRIC markets down 21%. Forex had a 700 bps impact on revenue growth (-9% vs. -2%).
+
+Other details: 1) The quarter-ending services backlog was down $7B Y/Y to $121B; it was up 1% adjusting for forex. 2) ""Strategic imperatives"" (cloud, analytics, mobile, social, and security) revenue growth slowed to 10% Y/Y from Q3's 17%. For 2015, strategic imperatives were 35% of total revenue. 3) ""Cloud delivered as a service"" revenue rose 50% in 2015 to $4.5B, and analytics revenue 7% to $17.9B. 4) Middleware revenue fell 10% in Q4 to $4.9B. 5) Mainframe revenue (boosted by upgrade cycle) +16% in Q4; Power systems +4%; storage -11%.
+
+Financials: $764M was spent on buybacks in Q4, bringing the full-year total to $4.6B. 2015 free cash flow was $13.1B, up $700M Y/Y. IBM ended Q4 with $8.2B in cash, and $12.7B in non-Global Financing debt.
+
+IBM -0.7% after hours to $127.20.
+
+IBM's Q4 results, earnings release
+ ",0.9932,positive,0.8037756097560975
+109,2016-01-19,-1.6640000000000001,IBM slightly beats Q4 estimates,"
+
+International Business Machines (NYSE:IBM): Q4 EPS of $4.84 beats by $0.03.
+Revenue of $22.06B (-8.5% Y/Y) beats by $20M.
+2016 outlook will be discussed during IBM's earnings call (starts at 5PM ET, webcast).
+Shares -0.8% after hours.
+ ",0.3207,positive,0.8037756097560975
+110,2016-01-15,-2.496,IBM buys German payment fraud analytics firm IRIS Analytics,"
+
+Continuing its analytics-related acquisition spree, IBM (IBM -2%) has bought IRIS Analytics, a German provider of software for detecting payment fraud in real-time, investigating fraud cases, and modeling/simulating a company's response to a fraud event. Terms are undisclosed.
+IBM: ""IRIS provides a real-time fraud analytics engine that leverages machine learning to generate rapid anti-fraud models while also supporting the creation and modification of ad-hoc models, proven successful on various sized payment platforms ... IRIS serves to bridge the gap between expert-driven rules and traditional predictive modeling by applying artificial intelligence and cognitive techniques to partner with human experts in suggesting best fit analytics interactively, while testing and deploying models with real production data, as it happens and without downtime.""
+Big Blue adds IRIS is used by ""leading banks and payment processors throughout the world,"" and allows fraud countermeasures to be deployed faster than existing techniques relying on ""black box"" models. The purchase follows IBM's 2013 acquisition of malware-protection software firm Trusteer (used by many top banks), and its 2011 purchase of security analytics firm i2 (used by law enforcement agencies and companies to detect illicit activity within operational log data).
+IBM is lower on a morning the S&P is down 2.3%, and the Nasdaq 2.7%. Q4 results arrive on Tuesday afternoon.
+Recent IBM acquisitions
+ ",0.9716,positive,0.8037756097560975
+111,2015-12-31,-1.4909999999999999,"NTAP, FEYE, SPLK, others make FBR's 2016 tech M&A idea list","
+
+Cisco (NASDAQ:CSCO) could make a bid for storage array vendor NetApp (NASDAQ:NTAP) and threat-prevention hardware/software provider FireEye (NASDAQ:FEYE) in 2016, thinks FBR's Dan Ives. Cisco/NetApp speculation has been around for a while. Meanwhile, Cisco has made several security acquisitions in recent years, and appears to be up for more, but has also launched products that compete with FireEye.
+Ives also thinks IBM could bid for machine/log data analytics software leader Splunk (NASDAQ:SPLK) and business intelligence/data visualization software firm QLIK. With a $7.6B market cap and high multiples, Splunk would be a costlier acquisition than IBM's traditional fare.
+HP Enterprise (NYSE:HPE), meanwhile, is seen as a potential suitor for both Qlik and enterprise cloud storage/file-sharing leader BOX. And Oracle (NYSE:ORCL) a potential buyer of cloud ERP, HR, and e-commerce software firm NetSuite (NYSE:N). Larry Ellison owns a large stake in NetSuite (more SMB-focused than Oracle), and the company both competes and partners with Oracle.
+Microsoft (NASDAQ:MSFT), which has made plenty of acquisitions in the Satya Nadella era, is seen as a potential buyer of database security software and Web app firewall vendor Imperva (NASDAQ:IMPV), as well as of cloud vulnerability management and compliance software firm Qualys (NASDAQ:QLYS). Symantec (NASDAQ:SYMC), which has signaled it will make security acquisitions after the sale of its Veritas unit closes, is considered a possible acquirer of e-mail/compliance security software provider Proofpoint (NASDAQ:PFPT).
+
+Yesterday: FBR sees improving cybersecurity spend, likes several stocks
+ ",0.9956,positive,0.8037756097560975
+112,2015-12-18,-1.6030000000000002,Box expands IBM alliance,"
+
+Box's (BOX +0.1%) partnership with IBM (first announced in June) has been expanded to feature ""stronger go-to-market and sales commitments."" In addition, the deal's lifespan now ""has the potential to last for a decade or more.""
+Box integration is now provided for IBM's Case Manager and Datacap (image information extraction) software. Box and IBM previously announced Box would be integrated with Big Blue's content management, enterprise social networking, and records management/e-discovery software, as well as with the cloud-based Watson Analytics platform and IBM's MobileFirst iOS apps.
+The IBM expansion follows a deal to tightly integrate Box's platform with Salesforce's cloud CRM apps and App Cloud platform.
+ ",0.9704,positive,0.8037756097560975
+113,2015-12-17,-2.201,IBM taking over AT&T's managed app/hosting services unit,"
+
+Once the deal closes, IBM will deliver the manged app/hosting services currently provided by AT&T. The offerings will be ""aligned"" with IBM's cloud services portfolio.
+No details have been given yet about the deal's revenue impact, or about how much (if any) money is changing hands. It follows a Q3 in which IBM's global tech services revenue fell 10% Y/Y to $7.9B, and its global business services revenue 13% to $4.2B, amid cloud and forex pressures. The company is already a notable player in the managed app and hosting markets; its SoftLayer unit participates in the latter.
+Within its Business Solutions segment, AT&T's fixed strategic services revenue (has included hosting, Ethernet, cloud, VPN, and security services) rose 12.6% Y/Y in Q3 to $2.76B. That helped offset an 8.7% drop in legacy voice/data service revenue to $4.5B.
+ ",0.7385,positive,0.8037756097560975
+114,2015-10-27,-4.98,WSJ: IBM near $2B-plus deal for The Weather Company assets,"
+ 
+IBM is nearing a deal in excess of $2B to acquire the digital and data assets of The Weather Co., owner of the Weather Channel, The Wall Street Journal is reporting. The company -- owned in part by NBCUniversal (NASDAQ:CMCSA) along with Bain Capital and Blackstone (NYSE:BX) -- started hiring banks to seek a buyer in August for a deal it hoped would hit $3B. The company's digital bits were widely considered to be the most valuable. IBM has a particular interest in the company's forecasting group, WSI, the WSJ says -- a unit that's chock full of tech and weather data that the Weather Co. licenses to various businesses. The deal would reportedly come with Weather Co. CEO David Kenny, who would join IBM. A $2B deal would be a discount over the company's 2008 sale price, valued at $3.5B. IBM shares fell 4.1% today.
+Previously: IBM eyes digital assets of The Weather Company (Oct. 19 2015)
+Previously: Weather Channel hires banks to explore sale for up to $3B (Aug. 20 2015)  ",0.9879,positive,0.8037756097560975
+115,2015-10-27,-4.98,IBM discloses SEC revenue-recognition probe; shares -3%,"
+
+Buried within IBM's just-filed Q3 10-Q: ""In August 2015, IBM learned that the SEC is conducting an investigation relating to revenue recognition with respect to the accounting treatment of certain transactions in the U.S., U.K. and Ireland. The company is cooperating with the SEC in this matter.""
+IBM has already been cooperating with the SEC and other agencies on corruption-related probes. The SEC ended an investigation into IBM's cloud revenue reporting last year.
+Shares have sold off following Big Blue's disclosure.
+
+Earlier: IBM adds $4B to buyback, declares quarterly dividend
+ ",0.9369,positive,0.8037756097560975
+116,2015-10-27,-4.98,"IBM adds $4B to buyback, declares quarterly dividend","
+
+IBM (IBM -1.1%) has hiked its buyback authorization by $4B to $6.4B. That's good for repurchasing 4.6% of shares at current levels. $5B was added to IBM's buyback a year ago.
+Big Blue has also declared its regular quarterly dividend of $1.30/share (3.6% yield). The next dividend is payable on Dec. 10 to stockholders on record as of Nov. 10.
+IBM spent $1.5B on buybacks in Q3. The latest hike comes after shares fell to 5-year lows in the wake of IBM's mixed Q3 results and 2015 guidance cut.
+ ",0.8641,positive,0.8037756097560975
+117,2015-10-20,-7.367000000000001,IBM nears $140 following guidance cut; analysts concerned about 2016,"
+
+IBM (IBM -5.8%) is at its lowest levels since 2010 after providing a 2015 EPS guidance cut to go with mixed Q3 results, and reporting continued top-line pressures in many key businesses. A slew of firms have cut their targets, but none have downgraded.
+On the earnings call (transcript), CFO Martin Schroeter stated Q3 sales were pressured by a longer-than-expected ""transformation"" timeframe for Global Business Services (GBS) ""as the market shifts away from some of the more traditional application areas"" (due to cloud adoption?), as well as weak storage demand amid growing industry adoption of flash arrays - that's potentially a positive for newly-public flash array vendor/IBM rival Pure Storage (PSTG +2.4%).
+Schroeter also mentioned transactional software revenue weakened towards the end of Q3, and that both GBS and transactional challenges will weigh on Q4. GBS revenue fell 13% Y/Y in Q3, storage revenue 19%, and software revenue 10%. Excluding forex, the declines were 5%, 14%, and 3% (suggestive of moderate share loss). Software accounted for 43% of IBM's Q3 op. profit.
+Stifel's David Grossman (Buy, target cut by $20 to $160): ""We wonder whether the significant downward revision to guidance reflects an attempt to reset the bar for next year ... We have lowered our 2015 EPS from $15.71 to $14.75 (consensus was $15.67) and 2016 from $16.36 to $15.30 (consensus $16.04), which assumes flattish revenue growth in 2016 (versus down ~1% in 2015) and pretax margin expansion of 60bp (versus down 100bp in 2015). It will be difficult to grow [free cash flow] in 2016 on this EPS base, which suggests the stock could remain in a trading range of high $135-$145, pending the 4Q report.""
+Bernstein's Toni Sacconaghi (Market Perform, target cut by $10 to $140) thinks 2016 could be even tougher than 2015, given a declining services backlog, the rolloff of currency hedges, a lack of a mainframe/Power system upgrade cycle, lower ""non-operating gains,"" and ongoing strategic investments. He sees EPS dropping to $14.30 in 2016 - revised 2015 guidance is at $14.75-$15.75 - with cash flow ""potentially declining more moderately than EPS.""
+
+Prior IBM coverage, SA IBM earnings analysis
+
+ ",0.9188,positive,0.8037756097560975
+118,2015-10-19,-1.005,"IBM's EPS lifted by tax rate, job cuts; revenue pressures widespread","
+
+Helping IBM beat Q3 EPS estimates in spite of a revenue miss: The company had a non-GAAP tax rate of 18%, up slightly from Q2's also depressed 17.2% but down from 20.8% a year ago.
+Also helping: 1) SG&A spend fell 10% Y/Y to $4.7B thanks to job cuts and forex, and R&D spend fell 5% to $1.3B. 2) Gross margin from continuing ops rose 80 bps Y/Y to 50%. 3) $1.5B was spent on buybacks.
+Free cash flow rose 18% Y/Y to $2.6B. However, IBM now expects 2015 FCF to be ""relatively flat"" compared with 2014's $12.4B. It guided in July for a ""modest increase.""
+
+Segment performance:  Global Tech Services revenue -10% Y/Y to $7.9B; op. profit -22% to $1.3B. Global Business Services revenue -13% to $4.2B; op. profit -22% to $673M. Software revenue -10% to $5.1B; op. profit -19% to $1.9B. Hardware revenue (hurt by the x86 server unit sale) -39% to $1.5B; the business had a $24M op. loss. Global Financing revenue -8% to $447M; op. profit +18% to $562M. Forex had a 9% impact on total revenue growth, and the x86 sale a 4% impact.
+
+Geographic performance:?Americas revenue -10% Y/Y to $9.1B. EMEA -16% to $6.1B. Asia-Pac -19% to $4.1B.
+
+Other details: 1) The quarter-ending services backlog fell by $4B Q/Q and $10B Y/Y to $118B. 2) Revenue from BRIC markets fell 30% Y/Y (7% exc. forex and the x86 sale). 3) Middleware revenue -7%, mainframes (boosted by upgrade cycle) +15%, Power systems -3%, storage -19% (share loss). 4) ""Cloud delivered as a service"" revenue"" is on a $4.5B/year run rate, the same as Q2 and up from $3.1B a year ago. 5) Analytics revenue rose 9%, and total ""strategic imperatives"" revenue (cloud, security, analytics, mobile) 17%.
+IBM ended Q3 with $9.6B in cash and $13.7B in non-Global Financing debt.
+
+IBM -4% after hours to $143.24. Earnings call at 5PM ET (webcast).
+
+IBM's Q3 results/guidance cut, PR
+ ",0.9969,positive,0.8037756097560975
+119,2015-10-19,-1.005,"IBM posts mixed results, cuts guidance; shares drop","
+
+International Business Machines (NYSE:IBM): Q3 EPS of $3.34 beats by $0.04.
+Revenue of $19.28B (-13.9% Y/Y) misses by $340M.
+Cuts 2015 EPS guidance to $14.75-$15.75 from prior $15.75-$16.50. Consensus is at $15.68.
+Shares -3.7% after hours.
+ ",0.0182,positive,0.8037756097560975
+120,2015-10-13,-1.305,Etihad Airways signs cloud pact with IBM,"
+
+Etihad Airways and IBM (NYSE:IBM) have signed an information technology deal worth $700M over 10 years that aims to improve the airline's booking systems and cut costs from its network operations.
+The agreement also includes customer data analytics and the development of technology that can predict weather patterns.
+IBM sealed a similar deal with Lufthansa last year, which the German airline said would generate cost savings of ??0M a year.
+ ",0.8661,positive,0.8037756097560975
+121,2015-09-28,-2.49,IBM buying Workday services provider Meteorix,"
+
+
+IBM is buying Meteorix, a provider of consulting and implementation services for companies looking to deploy Workday's cloud HR and financials apps. Terms are undisclosed.
+""The planned acquisition of Meteorix can make IBM one of the leading, most qualified and experienced Workday service providers in the world,"" says an IBM exec. Workday, which has been taking share from on-premise software alternatives, has an FY16 (ends in January) revenue consensus of $1.16B, and an FY17 consensus of $1.59B. Its clients include a number of U.S. multinationals. Meteorix has 200+ Workday consultants.
+Big Blue had 2014 ""cloud revenue"" of $7B. However, that figure includes sales of hardware, software, and services used to enable cloud deployments, and which often came at the expense of on-premise sales. The company's ""cloud delivered as a service"" revenue was on a $4.5B/year run rate as of Q2.
+Recent IBM acquisitions: StrongLoop, Merge Healthcare, Blue Box
+
+ ",0.8432,positive,0.8037756097560975
+122,2015-07-21,-8.642999999999999,"IBM -6.3%; Street cuts estimates, debates turnaround after mixed Q2","
+
+With IBM's Q2 EPS benefiting from a non-GAAP tax rate of 17.2% (down 280 bps Q/Q and 330 bps Y/Y), many firms are cutting their full-year EPS estimates on account of Big Blue's top-line pressures. However, no downgrades have arrived.
+Janney's Joseph Foresi (Neutral): ""Strategic-Imperative revenue growing more than 30% y/y was impressive, but implies a worse than expected performance in the legacy business. Most segments were close to flat in either direction, and we see little prospect of overall y/y growth until 2016."" Likewise, Deutsche's Sherri Scribner (Hold) continues to forecast ""secular challenges related to the shift to the cloud to be a negative headwind for IBM and [expects] near-term growth to be difficult.??
+JPMorgan's Tien-tsin Huang (Neutral) is worried about services margins. ""[Services] signings were up nicely; backlog was up 1% (first increase since end of 2013), as IBM encouragingly won 22 large deals. However, services pretax margins deteriorated 390 basis points year/year ... Given forex is essentially neutral to margin % on pretax basis, we attribute much of this margin deterioration to need for investments in Strategic Imperatives which should continue and hurt near term Services margins.""
+Stifel's David Grossman (Buy) makes a bull case centered around low multiples, services backlog conversion, and a software business believed to be faring better than generally believed. ""IBM is trading at 13 times 2015 free cash flow, which includes $0.80/share of forex-related headwinds and represents a 25% discount to the S&P earnings multiple. In our view, this stock offers attractive risk/reward given the various headwinds.""
+On the CC (transcript), CFO Martin Schroeter stated IBM's mobile-related sales (benefiting from the Apple partnership?) quadrupled in 1H15, and that demand for scale-out systems is giving a lift to Power server sales (weak in recent years, but down only 1% in Q2). 25% and 16% Y/Y drops in Chinese and Brazilian revenue hurt BRIC revenue in Q2, and a fresh $200M ""workforce rebalancing"" charge was taken.
+
+Q2 results, details, SA IBM commentary
+
+ ",0.996,positive,0.8037756097560975
+123,2015-06-25,-0.758,Box now up 11% since IBM deal announced,"
+
+Box (BOX +4.7%) is strongly adding to the Wednesday gains seen after announcing a partnership with IBM that covered Big Blue's content management software, iOS apps, security tech, and Watson Analytics platform, among other things.
+
+Discussing the deal with the NYT, CEO Aaron Levie called it ""[Box's] most substantial partnership in the enterprise market.??He goes on to suggest IBM's analytics software will be used to analyze content stored on Box's platform, and surface important material.
+
+Forrester's Cheryl McKinnon: ""It ups [Box's] street cred on targeting the enterprise ... They now have access to a whole range of enterprise-grade capabilities that IBM brings on the transactional side of the house -- analytics, case management, workflow, [business process management]. For IBM, it is integration of lighter-weight document services for a new generation of email. They are looking for that fast, agile way of working.""
+ ",0.9752,positive,0.8037756097560975
+124,2015-06-25,-0.758,CEO pay vs. performance,"
+Executive compensation is generally geared toward results, but some CEOs still got massive pay packages in 2014 even though their investors didn't do so well. Notables:Philippe Dauman of Viacom (VIA, VIAB) +19.2% to $44.3M (shareholder return -6.6%)Jeff Immelt of General Electric (NYSE:GE) +88.4% to $37.3M (shareholder return -6.7%)James McNerney of Boeing (NYSE:BA) +24.1% to $28.9M (shareholder return -2.5%)Virginia Rometty of IBM (NYSE:IBM) +38.5% to $19.3M (shareholder return -12.4%)James Tisch of Loews (NYSE:L) +77.6% to $10.5M (shareholder return -12.4%) ",0.4553,positive,0.8037756097560975
+125,2015-06-24,-1.405,"IBM, Box form extensive enterprise software alliance","
+
+
+IBM is partnering with enterprise cloud storage, file-syncing, and collaboration software vendor BOX to integrate Box's software and services with many of IBM offerings.
+Among the specifics: 1) Box will be integrated with IBM's content management and enterprise social networking software. 2) The companies will make Box's content accessible to the cloud-based Watson Analytics platform. 3) Box will enable joint clients to store content via IBM's cloud infrastructure. 4) IBM's security technologies will be used to expand Box's security offerings. 5) Box/IBM will develop content management solutions for, and integrate Box's technology with, the iOS apps IBM developed with Apple.
+The alliance fills a hole in IBM's product line - though offering standard cloud storage services, Big Blue didn't have a platform for enterprise workers similar to Box's. For Box, the deal expands the company's ecosystem and gives it a partner with huge enterprise and channel reach. It follows a narrower deal with rival Microsoft that focused on Office integration.
+
+BOX +5.4% premarket to $18.50.
+ ",0.9815,positive,0.8037756097560975
+126,2015-06-15,-0.622,Teradata -4.1%; JMP downgrades on competitive fears,"
+
+Believing its valuation still doesn't fully reflect the competitive challenges from big data and cloud-based platforms, JMP's Greg McDowell has downgraded Teradata (NYSE:TDC) to Underperform, and set a $30 target. The data warehousing hardware/software provider has made fresh 52-week lows; shares now go for 13x a 2016 EPS consensus of $2.75.
+
+Many other analysts have already argued big data/analytics platforms focused on handling massive unstructured datasets, such as Hadoop and NoSQL, are major long-term competitive threats; some have also cited Amazon's Redshift cloud-based warehousing service. Teradata has been using M&A to grow its Hadoop exposure.
+
+IBM (a traditional Teradata warehousing rival) just made a big commitment to Spark, an alternative to Hadoop's MapReduce programming model that offers much faster analytics performance on account of processing data in-memory (rather than on disks), and also reduces network I/O activity. Major Hadoop distribution provider Hortonworks (HDP -1.1%), which Teradata maintains a stake in, has launched tools for running Spark via Hadoop.
+ ",0.9432,positive,0.8037756097560975
+127,2015-06-15,-0.622,IBM to invest 'hundreds of millions??in free data technology,"
+IBM (NYSE:IBM) has announced several initiatives related to its free big data/analytics software platform named Spark.At the core of the commitment, IBM will offer Spark as a service on IBM Cloud and will donate its SystemML software to the Spark open source ecosystem.According to Beth Smith, general manager of the company?�s analytics division, IBM will invest ""hundreds of millions a year"" into the free data analytics technology. ",0.9343,positive,0.8037756097560975
+128,2015-05-21,-0.358,Goldman updates list of hedge funds most-shorted stocks,"
+Alongside Goldman's list of 50 stocks appearing most as top holdings at hedge funds is its list of the 50 top shorts.New additions this quarter: Baxter Intl (NYSE:BAX), UPS, Marriott (NYSE:MAR), NextEra (NYSE:NEE), Ford (NYSE:F), National Oilwell Varco (NYSE:NOV), McDonald's (NYSE:MCD), M&T Bank (NYSE:MTB), CenturyLink (NYSE:CTL), Amgen (NASDAQ:AMGN), Pioneer Natural (NYSE:PXD), Duke Energy (NYSE:DUK), Seagate (NASDAQ:STX), AbbVie (NYSE:ABBV), Cisco (NASDAQ:CSCO).The full list (in order of $ value of short interest): AT&T (NYSE:T), Disney (NYSE:DIS), IBM, Verizon (NYSE:VZ), Intel (NASDAQ:INTC), Kinder Morgan (NYSE:KMI), Exxon (NYSE:XOM), Pfizer (NYSE:PFE), J&J (NYSE:JNJ), Deere (NYSE:DE), Caterpillar (NYSE:CAT), Exelon (NYSE:EXC), GE, Boeing (NYSE:BA), Halliburton (NYSE:HAL), Fox (NASDAQ:FOXA), Comcast (NASDAQ:CMCSA), UTX, Regeneron (NASDAQ:REGN), Merck (NYSE:MRK), salesforce.com (NYSE:CRM), AbbVie (ABBV), Conoco (NYSE:COP), Wal-Mart (NYSE:WMT), Eli Lilly (NYSE:LLY), Celgene (NASDAQ:CELG), Schlumberger (NYSE:SLB), AutoZone (NYSE:AZO), Wells Fargo (NYSE:WFC), Emerson (NYSE:EMR), McDonald's (MCD), Reynolds (NYSE:RAI), Target (NYSE:TGT), Accenture (NYSE:ACN), Coca-Cola (NYSE:KO). ",0.9668,positive,0.8037756097560975
+129,2015-04-21,-1.6059999999999999,3 Takeaways From IBM?�s Q1 Earnings Report,"
+
+1. Flat is the new up: ""Revenue numbers dropped for the 12th consecutive quarter and the company  managed to miss estimates this quarter too. But CEO Ginni Rometty  noted that if you exclude results from foreign currency exchange as well  as businesses that IBM will be divesting itself of overall revenue  growth was flat.""
+2. Cloud computing results were mostly positive: ""The cloud business was generating revenue at an annualized rate of $3.8  billion, up from $2.3 billion a year ago. It?�s a move in the right  direction but for a company that generates around $90 billion a year in  revenue the cloud services business isn?�t moving the needle just yet.""
+3. IBM is a slow ship to turn: ""Rometty is in her fourth year as CEO and while she has doing some things to spread out and revive IBM?�s revenue streams the results have been slow in coming.""
+Source: Dave Dierking
+
+Previously: International Business Machines beats by $0.09, misses on revenue (Apr. 20)
+Related: International Business Machines' (NYSE:IBM) Q1 2015 Results - Earnings Call Transcript (Apr. 20)
+Related: IBM Stock And The Case For Exceptional Patience (Apr. 20)
+ ",0.983,positive,0.8037756097560975
+130,2015-04-13,-0.406,"IBM buys health tech startups, launches Watson Health, expands Apple deal","
+
+Looking to grab a bigger chunk of a burgeoning healthcare analytics market by offering more industry-specific solutions, IBM is buying Phytel, a provider of cloud-based patient data aggregation/analysis software, and Explorys, provider of a massive clinical database (said to consist of 315B datapoints) and a slew of analytics apps that run on top of them. Terms are undisclosed.
+IBM declares Phytel will help it give healthcare providers ""insights into patient health from data about patient behaviors and their engagement with care plans,"" and that Explorys will ""accelerate the delivery of IBM Health Cloud and IBM Watson cognitive solutions to model and apply medical evidence and large scale analytics to data.""
+Both companies are being added to a new Watson Health unit based out of Boston. The business aims to provide software/services that can surface insights from large volumes of anonymous personal health data. As part of the effort, Big Blue is launching Watson Health Cloud, a platform that allows this data to be ""anonymized, shared and combined with a dynamic and constantly-growing aggregated view of clinical, research and social health data.""
+IBM's partnership with Apple (NASDAQ:AAPL) has been expanded to cover Apple's HealthKit (health/fitness data) and ResearchKit (medical research) frameworks, via Watson and Health Cloud. The latter will provide a data storage/aggregation platform for iOS apps using HealthKit and ResearchKit. In addition, IBM will ""build a suite of enterprise wellness apps using HealthKit.""
+Also: 1) IBM is partnering with Medtronic (NYSE:MDT) to create diabetes management solutions that pair Medtronic's devices (and the data they produce) with IBM's analytics and cognitive computing tools. 2) IBM is partnering with Johnson & Johnson (NYSE:JNJ) to ""create intelligent coaching systems centered on preoperative and postoperative patient care, including joint replacement and spinal surgery.""
+ ",0.9969,positive,0.8037756097560975
+131,2015-03-31,-1.834,IBM to invest $3B in Internet of Things unit,"
+IBM (NYSE:IBM) is investing $3B over the next four years in a new 'Internet of Things' division, aiming to sell its expertise in gathering and making sense of the surge in real-time data.For its first major partnership, IBM said a unit of the Weather Company will move its weather data services onto its cloud, so that customers can use the data with IBM's analytics tools.Focusing on the cloud has been part of Big Blue's gradual shift away from its traditional hardware and consulting business. ",0.8446,positive,0.8037756097560975
+132,2015-03-17,-0.10099999999999999,IBM launches cloud-based Twitter analytics services,"
+
+Nearly 5 months after announcing an enterprise analytics alliance with Twitter (TWTR +1.4%), IBM (IBM -0.1%) has launched a slew of cloud-based services for enterprises and developers looking to mine Twitter data for insights and/or fuse it with other data sources.
+Among other things, IBM has rolled out a service on its Bluemix cloud app platform that lets developers/businesses ""search, quickly explore and then mine enriched Twitter content and aggregated insights,"" and a service for its Watson Analytics platform that can ""give business professionals the ability to immediately pull Twitter data into any project in order to help identify and explain hidden patterns and relationships.""
+Also: The cloud-based version of IBM's BigInsights software for the popular Hadoop big data framework can now be obtained with ""pre-configured access to Twitter content."" IBM claims 4K+ professionals have been trained to work with Twitter data and combine it with other sources.
+Sample use cases include correlating angry Tweets with weather events and customer defections for telecom companies, drawing a link between retail employee turnover and lost customers, and using Tweet sentiment to better gauge fashion demand. IDC's David Schubmehl argues IBM's industry-specific expertise (also a reason why Apple partnered with IBM) gives it an edge in such use cases, as it battles against Oracle, Salesforce, and other software vendors providing social media analytics tools.
+For Twitter, IBM's tools burnish the company's credentials as a source for valuable business data, and could provide a boost to its data licensing sales. Twitter's data licensing/other revenue rose 105% Y/Y in Q4 to $47M (10% of total revenue).
+ ",0.9814,positive,0.8037756097560975
+133,2015-03-13,-3.127,IBM drops 2.8% as euro sells off,"
+
+The euro is down 1.6% against the dollar today following a bearish Goldman forecast, bringing the exchange rate to 1.0465. IBM, which received 33% of its Q4 revenue from EMEA, is among the biggest large-cap tech decliners on a day the Nasdaq is down 1% and the S&P 1.1%.
+Big Blue is just two weeks removed from forecasting a strong dollar will respectively have 7%+ and 6%+ impacts on Q1 and full-year sales growth, larger than previously expected. It had a 440 bps impact on Q4 growth, topping initial guidance of 300 bps.
+Shares are a little over $4 above a 52-week low of $149.52 (set on Jan. 29). They trade for 10x 2015E EPS and 12x IBM's 2015 free cash flow forecast.
+ ",0.9071,positive,0.8037756097560975
+134,2015-02-26,-1.64,IBM aims for $40B in 2018 sales from growth businesses,"
+
+IBM (IBM -0.6%) uses its 2015 analyst day (webcast) to declare it's looking to generate $40B in 2018 revenue from cloud, analytics, mobile, social, and security solutions, up from $25B (27% of total revenue) in 2014.
+To help achieve the goal, Big Blue plans to shift another $4B in spending in 2015 towards the businesses in question; the company is just a week removed from committing $1B over the next 5 years to storage software investments. Nonetheless, the size of the 2018 target suggests major new acquisitions are a possibility.
+Of note: IBM often has very broad definitions of what it considers to be revenue attached to a growth business. For example, ""cloud"" revenue might not just cover cloud software and infrastructure services, but also sales of servers, databases, IT services, etc. that went towards a cloud deployment. Thus, while IBM's 2014 ""cloud revenue"" totaled $7B, its ""cloud delivered as a service revenue"" was only $3B.
+IBM is also reiterating guidance (provided with its Jan. 20 Q4 report) for 2015 EPS of $15.75-$16.50, and for free cash flow to be ""consistent"" with a 2014 level of $12.37B. However, it now expects forex to respectively have a 7%+ and 6%+ impact on Q1 and full-year sales growth, more than previously forecast.
+ ",0.9806,positive,0.8037756097560975
+135,2015-01-27,-2.258,International Business Machines declares $1.10 dividend,"
+
+International Business Machines (NYSE:IBM) declares $1.10/share quarterly dividend, in line with previous.
+Forward yield 2.88%
+Payable March 10; for shareholders of record Feb. 10; ex-div Feb. 6.
+ ",0.7245,positive,0.8037756097560975
+136,2015-01-21,-4.079,"IBM below $152 as analysts react to earnings, guidance","
+
+Not surprisingly, many sell-side firms are cutting their IBM (IBM -3.3%) estimates after the IT giant provided light 2015 EPS and free cash flow guidance to go with mixed Q4 results. Shares are less than $1.50 removed from a 52-week low of $150.50.
+Goldman's Bill Shope: ""We were discouraged by both fourth-quarter results and 2015 guidance ... We believe 2015 will be another transition year, and we expect the company to provide a road map for recovery in 2016 and beyond at its analyst day next month.""
+JPMorgan's Tien-tsin Huang is worried about weakening software sales (-6.6% Y/Y in Q4, responsible for a large % of op. profit), and says he's taking a ""wait-and-see approach"" to how Big Blue grows cash flow.
+Citi's Jim Suva wants to see stabilizing sales and organic EPS growth before turning bullish. ""Given the rapid rate of innovation within the competitive landscape, we are not convinced IBM fully grasps the severity of these competitive dynamics.""
+On the CC (transcript), CFO Martin Schroeder attributed IBM's 60 bps Y/Y gross margin gain to better services margins and the x86 server unit sale. He added IBM's 2015 EPS guidance assumes a 20% tax rate, and ""a 2 to 3 point impact from share repurchase"" (implies less buybacks than in 2014). Capex is expected to rise by over $500M from 2014's $3.8B thanks to cloud and software investments.
+Prior IBM earnings coverage
+ ",0.9908,positive,0.8037756097560975
+137,2015-01-20,-0.159,IBM guides below consensus,"
+
+
+IBM guides on its Q4 CC for 2015 EPS of $15.75-$16.50, below a $16.53 consensus.
+The company also states revenue as reported in 2015 isn't expected to grow Y/Y, and that free cash flow (down 18% in 2014 to $12.37B) is expected to be flat.
+In its CC slides (.pdf), Big Blue states forex had a 440 bps impact on Q4 revenue, bigger than a prior forecast of 300 bps. Adjusted for forex and divestitures, IBM reports Americas revenue fell 4%, EMEA 1%, and Asia-Pac 2%. BRIC markets remain a weak spot, falling 8% if one adjusts for forex/divestitures and 21% if one doesn't.
+Two bright spots: 1) Though the services backlog fell to $128B, global services signings rose 5% Y/Y to $18.4B in actual dollars, and 13% adjusted for forex. 2) The ""cloud delivered as a service"" annual run rate is up to $3.5B.
+
+IBM -2.1% AH. Q4 results, details.
+ ",0.8844,positive,0.8037756097560975
+138,2015-01-20,-0.159,IBM now -2.1% AH; sales remain under pressure,"
+
+
+IBM's gross margin rose 60 bps Y/Y in Q4 to 53.9%, helping EPS beat estimates in spite of a revenue miss. Cost controls also helped: R&D spend -9% to $1.32B; SG&A +1% to $6.03B.
+On the other hand, buybacks played almost no role: Only $132M was spent on them in Q4, down from $1.7B in Q3 and $3.7B in Q2.
+
+Segment performance: Global tech services revenue -8% Y/Y to $9.4B; op. profit of $1.46B. Global business services -8.9% to $4.5B; op. profit of $733M. Software -6.6% to $8.4B; op. profit of $3.8B. Hardware (hurt by the x86 server unit sale) -39% to $2.5B; op. profit of $388M. Global financing -5.8% to $1.1B; op. profit of $526M.
+
+Geographic performance: Americas sales -9% to $11.1B. EMEA -13% to $8B. Asia-Pac -17% to $4.9B. IBM claims total revenue only fell 2% after adjusting for divestitures and forex.
+The services backlog fell by $15B Y/Y to $128B; IBM claims it was flat after adjusting for the Synnex deal and forex. Within hardware, Power server sales fell 13%, mainframes 26% (ahead of a refresh), and storage 8%. Software was hurt by a 6% drop in middleware revenue, and a 19% drop in OS revenue (affected by lower server sales).
+""Cloud delivered as a service"" revenue rose 75% in 2014 to $3B, and security revenue rose 19%. Full-year free cash flow was $12.37B, -18% Y/Y and below net income of $16.7B. Full-year capex was roughly flat at $3.8B.
+
+Q4 results, PR
+ ",0.9821,positive,0.8037756097560975
+139,2015-01-20,-0.159,"IBM beats by $0.40, misses on revenue","
+
+International Business Machines (NYSE:IBM):  Q4 EPS of $5.81 beats by $0.40.
+Revenue of $24.11B (-13.0% Y/Y) misses by $660M.
+2015 guidance to be provided on conference call.
+Shares +1.8% AH.
+ ",0.7835,positive,0.8037756097560975
+140,2015-01-14,-0.848,IBM refreshes mainframe line with high-end z13,"
+
+The z13, declared by IBM (with typical enterprise sales boastfulness) to be ""the most powerful and secure system ever built,"" is the first major refresh for the System z mainframe line since 2012. It supports up to 141 CPU units - a custom 8-core CPU is used - 10TB of memory, and 8K virtual servers. (datasheet - .pdf)
+Other features include faster/more reliable I/O connectivity, cryptography and compression co-processors for each CPU, and architecture changes meant to boost analytics workload performance. Like other System z hardware, it runs both Linux and IBM's proprietary z/OS (updated to offer faster analytics and data serving). IBM claims the z13 can handle 2.5B transactions/day.
+The refresh doesn't come a moment too soon: IBM's hardware division sales fell 15% Y/Y in Q3 amid share losses to HP, Dell, EMC, and many smaller rivals. With customers waiting for a new model, System z sales fell 35%. Hardware sales, of course, drive a sizable amount of software/services revenue.
+Though IBM's mainframe line still claims a large enterprise/government base that swears by its scalability, reliability, and partitioning features, x86 servers have been steadily gaining ground against proprietary platforms. HP recently launched x86 hardware for its rival Superdome and NonStop server lines, and age-old mainframe competitor Unisys (NYSE:UIS) is embracing x86 as well.
+
+Previously: IBM slides following 2015 estimate cuts
+ ",0.9735,positive,0.8037756097560975
+141,2015-01-12,-2.241,IBM slides following 2015 estimate cuts,"
+
+Jefferies, Deutsche, and Stifel have slashed their 2015 IBM (IBM -1.9%) estimates. Shares are underperforming on a down day for equities.
+Jefferies' James Kisner (Underperform) has cut his 2015 revenue and EPS estimates to $87B and $15.85 from $89.75B and $16.30, while citing a strong dollar. His Q4 estimates have been cut to $24.6B and $5.27, below a consensus of $24.93B and $5.48.
+""We believe revenue growth will be significantly challenged for IBM over the next few years,"" says Deutsche's Sherri Scribner, cutting her 2015 EPS estimate by $0.40 to $15.90. She notes cloud revenue (on a $3B/year run rate) is only ~3% of total sales, and that? free cash flow has trailed GAAP EPS during the last three years (previous).
+Stifel's David Grossman has cut his 2015 EPS estimate all the way to $15.17, but maintains a Buy. ""Headwinds from the hardware business should abate as 2015 progresses and product issues are being addressed; the cyclical issues are harder to predict, but comparisons get much easier in 2015, particularly in the second half.""
+The estimate cuts follow a report from The Register stating CEO Ginny Rometty is planning a major reorg ""that will see IBM try to shed the dusty hardware, software and services silo structure."" Microsoft did something similar in 2013.
+IBM's main post-reorg units will reportedly ""include Research, Sales & Delivery, Systems, Global Technology Services, Cloud, Watson, Security, Commerce, [and] Analytics."" Such an approach would allow Big Blue to more easily break out the performance of faster-growing businesses (cloud, Watson, security, etc.) from slower-growing ones.
+Q4 results arrive on Jan. 20.
+ ",0.9828,positive,0.8037756097560975
+142,2014-12-12,-4.775,IBM sells off to new 52-week lows,"
+
+IBM (IBM -2.7%) is among the biggest large-cap tech decliners on a day the Nasdaq is down 0.6%, and the S&P 0.9%.
+Shares -16% YTD. They now trade for just 10x 2015E EPS after factoring net debt. Price/free cash flow multiples are likely a little higher.
+ ",0.546,positive,0.8037756097560975
+143,2014-12-10,-2.081,"Apple, IBM bring iOS enterprise apps to market","
+
+The first ten iOS apps to stem from Apple's (NASDAQ:AAPL) alliance with IBM are now ""available to enterprise customers in banking, retail, insurance, financial services, telecommunications and for governments and airlines."" Initial clients for the products, offered under the IBM MobileFirst for iOS label, include Citi, Air Canada, and Sprint.
+As promised when the partnership was first announced, the apps feature embedded analytics, and are integrated with IBM cloud services built specifically for them. Initial apps include Advise & Grow (for bankers with small business clients), Retention (for insurance agents), Sales Assist (for retail workers), and Case Advise (for government caseworkers). They'll be offered by IBM's massive services arm.
+The solutions bolster Apple's growing enterprise sales push, as the company tries to win over traditionally wary CIOs, fend off Google and Samsung's enterprise efforts, and maintain an outsized share of corporate smartphone/tablet activations. Reuters reported in November Apple is also working with various startups to bring enterprise iOS apps to market.
+ ",0.9641,positive,0.8037756097560975
+144,2014-11-18,-1.905,"IBM fuses e-mail with analytics, social tools","
+
+Hoping to differentiate itself from Microsoft, Google, and other business e-mail rivals, IBM has launched Verse, an e-mail solution that integrates calendar data, IMs, social media updates, video chats, and file-sharing tools. The product will be offered both through the Web, and via Android/iOS apps, on a freemium basis.
+Verse relies on integrated analytics to learn a user's priorities, and to quickly provide important material (e-mails or otherwise) in an ""at-a-glance"" view. IBM will also include an option to conduct Watson queries (previous).
+Exec Carolyn Pampino says IBM is trying to differentiate Verse by having ""more of a focus on people"" and relevant conversations than rival solutions. ""[Verse is] an easy and fast way to immediately filter on a person?�s name.""
+The product has some things in common with Google's recently-launched Inbox app, which tries to intelligently place e-mails into bundles and surface content such as photos, phone numbers, and appointment times. However, Google's solution is consumer-focused for now.
+Shares fell 1.4% today, and remain close to a 52-week low of $160.05 The Nasdaq was up 0.7%
+ ",0.9747,positive,0.8037756097560975
+145,2014-11-18,-1.905,"Lufthansa, IBM signs $1.25B outsourcing deal","
+
+IBM (NYSE:IBM) has won a ??B ($1.25B) outsourcing contract from Lufthansa (OTCQX:DLAKY), as the latter looks to restructure and cut costs to compete with fast-growing rivals in both Europe and the Gulf.
+Under the seven-year deal, IBM will take over the airline's information technology infrastructure services division, saving Lufthansa ~??0M a year. Around 1,400 Lufthansa Systems employees will now transfer to IBM.
+Previously: Lufthansa, IBM in talks over IT infrastructure unit sale
+
+ ",0.8951,positive,0.8037756097560975
+146,2014-10-29,-0.11699999999999999,"IBM, Twitter partner on enterprise analytics","
+
+The partnership will allow businesses to ""incorporate Twitter (TWTR -2.1%) data into their decision-making through an established set of IBM (IBM +0.1%) tools, solutions and consulting services."" (PR)
+IBM plans to ""offer Twitter data as part of select cloud-based services, including IBM Watson Analytics,"" and allow 3rd-party developers to integrate Twitter data into services they're creating via IBM's cloud app platform (PaaS) offerings.
+The first joint solution will involve IBM's ExperienceOne customer engagement software/services. Eventually, the companies will offer ""solutions for specific industries such as banking, consumer products, retail, and travel and transportation.""
+Twitter: ""While companies have long listened to what their customers are saying on Twitter, complex enterprise decisions often require input from a lot of different systems. IBM?�s expertise is in integrating complex systems and data to make better decisions.""
+While IBM's total revenue fell 4% Y/Y in Q3, its business analytics revenue was up 8%; Big Blue has made a string of acquisitions to bolster its analytics portfolio.
+No details are given on the revenue Twitter will receive for providing its data. Twitter's data licensing/other revenue rose 171% Y/Y in Q3, and made up 11% of total revenue.
+ ",0.9895,positive,0.8037756097560975
+147,2014-10-22,-1.2,"Lufthansa, IBM in talks over IT infrastructure unit sale","
+
+Lufthansa (OTCQX:DLAKY) is close to selling its IT infrastructure unit to IBM (NYSE:IBM), including an outsourcing agreement for the services, as part of a restructuring to better position itself to compete with low-cost carriers and Gulf rivals.
+The move will reduce Lufthansa's annual IT costs by around ??0M a year, but will result in a ??40M ($305.2M) charge this year.
+Under the planned deal, Lufthansa will outsource all of its IT infrastructure services to IBM under a seven-year agreement. A final price for the sale is still being negotiated.
+ ",0.958,positive,0.8037756097560975
+148,2014-10-21,-4.893,IBM adds to losses as Street digests Q3 report,"
+
+Evercore has downgraded IBM (IBM -4.2%) to Hold a day after the company missed Q3 estimates, offered light full-year guidance, pulled its 2015 EPS target, and reported a 7% Y/Y services backlog drop. Not surprisingly, many other firms have cut their targets.
+Credit Suisse's Kulbinder Garcha, bearish for some time, has slashed his target by $35 to $125. Though calling the resetting of expectations a positive and noting a mainframe upgrade cycle is on the way, Garcha argues IBM ""continues to face multiple issues to revenue growth including high mainframe exposure, negative cloud impact and weak IT spending.""
+BofA/Merrill's Wamsi Mohan tries to find a silver lining. ""In our opinion, the reset in expectations provides an opportunity for IBM to redefine the broader strategy without the rigidity of near term targets. We expect a detailed business strategy update at the Analyst day in 2015 but near term headwinds will likely keep the stock range bound and we remain Neutral.""
+
+The WSJ observes IBM could lose its status as one of the S&P 500's 20 most valuable companies for the first time in history.
+Yesterday's earnings coverage
+ ",0.9009,positive,0.8037756097560975
+149,2014-10-20,-10.795,IBM's 2014 guidance well below consensus; services backlog -7%,"
+
+After badly missing Q3 EPS estimates (in spite of backing out the losses of its soon-to-be-sold chip unit), IBM (IBM -6.7%) guided on its Q3 CC for 2014 EPS from continuing ops. to be down 2%-4% Y/Y. That implies a range of $15.97-$16.30, soundly below a $17.87 consensus.
+Big Blue also says it took a $3.3B Q3 post-tax charge related to the chip business; the figure includes the $1.5B payment to Globalfoundries.
+During a CNBC interview, CEO Ginny Rometty suggested fresh layoffs are on tap. The company recorded a $1B workforce rebalancing charge back in Q1; its headcount was at 431K at the end of 2013.
+IBM's closely-watched services backlog fell 7% Y/Y in Q3 to $128B, a much sharper drop than Q2's 1%; the company declares it saw ""insufficient"" services productivity. Also worrying investors: Gross margin fell 90 bps to 49.2%, ending a long string of Y/Y gains.
+Other pressures on EPS: 1) The non-GAAP tax rate rose 80 bps Q/Q and 320 bps Y/Y to 20.8%. 2) Buybacks fell to $1.7B from Q2's $3.7B. 3) Opex for continuing ops rose 2% Y/Y, while revenue from continuing ops fell 4% (helps explain the job cut talk).
+Hardware revenue (excludes chips) -15% Y/Y; software -2%; global tech services -3%; global business services -2%; financing -3%. Within hardware: Mainframes -35%; Power systems -12%; x86 servers (just sold to Lenovo) -10%; storage -6%.
+Two strong points: ""Cloud delivered as a service"" revenue is up over 80% YTD ($3.1B/year run rate), and security revenue is up over 20% YTD.
+Americas revenue -2%; EMEA -2%; Asia-Pac -9%. ""Growth markets"" -6%, with BRIC countries down 7%.
+Free cash flow ($2.2B) was once more well below net income ($3.7B). IBM ended Q3 with $9.6B in cash, and $17.1B in non-financing debt.
+
+Q3 results, details, PR
+ ",0.986,positive,0.8037756097560975
+150,2014-10-20,-10.795,IBM tumbles 8% after disappointing results,"
+
+""We are disappointed in our performance,"" says CEO Ginni Rometty. ""We saw a marked slowdown in September in client buying behavior, and our results also point to the unprecedented pace of change in our industry.""
+Non-GAAP operating income from continuing operations (excludes semiconductor business whose acquisition by Globalfoundries was announced today) of $3.7B is off 18%; operating EPS of $3.68 is lower by 10%. Gross profit margin of 49.2% down 90 basis points.
+Guidance will be discussed further in the 8AM ET conference call, but the presentation slides say the company no longer expects to deliver at least $20 in operating EPS in 2015.
+More from Rometty: ""We again performed well in our strategic growth areas cloud, data and analytics, security, social and mobile - where we continue to shift our business. We will accelerate this transformation.""
+
+IBM?-8%?premarket
+Previously: International Business Machines misses on revenue
+
+ ",0.8093,positive,0.8037756097560975
+151,2014-10-20,-10.795,International Business Machines misses estimates,"
+
+International Business Machines (NYSE:IBM): Q3 EPS of $3.68 misses by $0.64.
+Revenue of $22.4B (-4.0% Y/Y) misses by $970M.
+Shares +1% PM.
+Previously: Globalfoundries to take control of IBM's semiconductor operations
+
+ ",0.4469,positive,0.8037756097560975
+152,2014-10-20,-10.795,Globalfoundries to take control of IBM's semiconductor operations,"
+
+IBM (NYSE:IBM) has reached an agreement with Globalfoundries to take over its loss-making semiconductor unit, WSJ reports.
+Under the terms of the deal, IBM will pay Globalfoundries $1.5B to take the chip operations off its hands, a source says.
+IBM is scheduled to report Q3 earnings premarket.
+Previously: IBM to make 'major announcement,' release earnings Monday morning 
+
+ ",0.888,positive,0.8037756097560975
+153,2014-10-10,-0.408,"Jefferies bearish on IBM, worried about cloud and cash flow","
+
+""We think IBM (IBM +0.5%) will continue to be a critically important IT company long-term due to its deep R&D investments, but we think the company faces a period of market transition,"" says Jefferies' James Kisner, launching coverage on Big Blue (as part of a sector launch) with an Underperform rating and $163 target.
+Like many other analysts, Kisner is worried about the impact of the cloud transition - both the adoption of cloud/SaaS apps and public cloud infrastructure services (often running on white-label hardware). He also highlights a broader shift in IT spend from ""legacy"" vendors as investments are made in ""growth initiatives.""
+In addition, Kisner echoes sell-side concerns about IBM's earnings quality: He thinks the company is respectively too dependent on vendor financing and buybacks for sales and EPS growth, and notes free cash flow has trailed net income.
+In spite of the launch, IBM is up modestly on a down day for tech. Q3 results are due on Oct. 20.
+ ",0.9833,positive,0.8037756097560975
+154,2014-09-29,-0.35,Lenovo to close $2.1B IBM server acquisition on Wednesday,"
+
+Lenovo (OTCPK:LNVGY) will complete its $2.1B acquisition of IBM's (NYSE:IBM) x86 server unit on Oct. 1, giving China's biggest personal computer maker a major asset to expand its business client offerings.
+The closing purchase price is lower than the $2.3B valuation announced in January because of a change in the valuation of inventory and deferred revenue liability, says Lenovo.
+ ",0.8144,positive,0.8037756097560975
+155,2014-08-27,-0.617,"Server growth positive in Q2; IBM loses share, H-P/Cisco gain","
+
+
+IDC estimates global server sales rose 2.5% Y/Y in Q2 to $12.6B. That marks a turnaround from the 2.2% drop seen in Q1, and the 4.4% drop seen in Q4. Gartner estimates sales grew 2.8%.
+IDC declares the server market, hurt in recent quarters by system consolidation and a shift in demand towards the white-label gear beloved by Web giants (referred to by IDC as ODM Direct), is seeing ""the beginning of a cyclical refresh cycle."" It sees the pending launch of Intel's (NASDAQ:INTC) Grantley Xeon CPUs, along with Microsoft's plans to end Windows Server 2003 support, lifting sales into 2015.
+Sales of x86 servers (mostly Intel-based) rose 7.8% in Q2, and now make up 78% of industry revenue. Non-x86 server sales fell 12.8%.
+Market leader H-P's (NYSE:HPQ) share rose 40 bps Y/Y to 25.4%, with x86 growth offsetting Itanium weakness. #2 IBM's share fell 340 bps to 23.6% ahead of the sale of its x86 server ops to Lenovo; on the bright side, IBM's decline narrowed from Q1's 600 bps.
+#3 Dell's share fell 160 bps to 16.2%. #4 Oracle's (NYSE:ORCL) grew 10 bps to 5.9%, with engineered system growth offsetting declines for older UNIX/SPARC server lines. #5 Cisco (NASDAQ:CSCO), which recently proclaimed its UCS server ops are on a $3B/year run rate, saw its share rise 140 bps to 5.8% on the back of 35% growth. Cisco should pass Oracle in a quarter or two.
+ODM Direct vendors saw their share grow 110 bps to 6.6%. The shares of all other vendors rose 190 bps to 16.1%.
+Related tickers: SMCI, MLNX, QLGC, ELX
+
+ ",0.982,positive,0.8037756097560975
+156,2014-08-15,-0.41700000000000004,U.S. regulators clear IBM-Lenovo deal,"
+
+The U.S. Committee on Foreign Investment (CFIUS) has signed off on the $2.3B sale of IBM's x86 server unit to Lenovo (OTCPK:LNVGY).
+The deal had been closely scrutinized due to the division's sales to U.S. government clients, sales which have included a decent number of supercomputer deals. IBM has tried to soothe concerns in part by promising it would continue handling maintenance work on Lenovo's behalf ""for an extended period.""
+Chinese regulators cleared the deal in July. Ahead of the sale, IBM's x86 server revenue fell 3% Y/Y in Q2, a much smaller decline than Q1's 18%.
+ ",0.8907,positive,0.8037756097560975
+157,2014-08-15,-0.41700000000000004,Berkshire Hathaway purchases stake in Charter Communications,"
+Berkshire Hathaway (BRK.B), (BRK.A) disclosed a $366M stake in cable TV operator Charter Communications (NASDAQ:CHTR) in the second quarter, according to a new regulatory filing. Shares of Charter have now rose more +2% in after-hours trading.The filing also detailed other new investments including a 1.3% raised stake in Wal-Mart (NYSE:WMT), and other increased holdings including IBM (NYSE:IBM) and Suncor Energy (NYSE:SU).However, Berkshire Hathaway reduced its stake in several companies, among them DirecTV (NYSE:DTV). ",0.9324,positive,0.8037756097560975
+158,2014-07-31,-1.931,IBM buys cybersecurity software vendor CrossIdeas,"
+
+Italy-based CrossIdeas develops identity/access management security software that uses analytics and a constantly-updating data repository to prevent unwanted access to data and apps. IBM hasn't disclosed the acquisition price. (PR)
+The cybersecurity software space has seen plenty of M&A activity this year, as corporate demand from cybersecurity offering rises in the wake of a series of high-profile attacks. IBM plans to integrate CrossIdeas' tools with its existing identity/access management offerings.
+Security has been a bright spot for IBM: Its total security-related revenue rose 20% Y/Y in Q2, helped a bit by last year's acquisition of threat-prevention software firm Trusteer.
+
+Gartner estimates Big Blue's 2013 security software sales totaled $1.14B (+19.1% Y/Y), giving the company with a 5.7% share of the market (#3 overall)
+ ",0.951,positive,0.8037756097560975
+159,2014-07-29,-1.003,International Business Machines declares $1.10 dividend,"
+
+International Business Machines (NYSE:IBM) declares $1.10/share quarterly dividend, in line with previous.
+Forward yield 2.25%
+Payable Sept. 10; for shareholders of record Aug. 8; ex-div Aug. 6.
+ ",0.7332,positive,0.8037756097560975
+160,2014-07-25,-0.696,Bloomberg: IBM/Globalfoundries talks break down over price,"
+
+
+Bloomberg reports IBM's (IBM -0.5%) talks to unload its struggling chip manufacturing unit to Globalfoundries have ended over differences on price.
+The news service reported in June IBM and Globalfoundries were close to a deal, while adding (citing a source) Big Blue's chip unit has been losing as much as $1.5B/year. Before that, the WSJ reported IBM originally wanted $2B+ for the business, but had seen initial bids closer to $1B.
+The unit's sales fell 18% Y/Y in Q2 amid ongoing share losses to TSMC and other foundry rivals. They fell 16% in Q1, and 33% in Q4.
+Bloomberg states IBM had become interested in a JV arrangement that would allow it to maintain control of chip design and IP development (while ridding itself of manufacturing). Two weeks ago, IBM promised to spend $3B over the next 5 years on advanced chip R&D.
+ ",0.9741,positive,0.8037756097560975
+161,2014-07-15,-1.135,"Apple, IBM in far-reaching enterprise partnership","
+ As part of a comprehensive enterprise mobility partnership, Apple (NASDAQ:AAPL) and IBM plan to develop 100+ ""industry-specific enterprise solutions,"" including new iPhone/iPad apps. The apps will begin to arrive this fall, and IBM will resell iPhones/iPads containing them to clients worldwide. The companies also plan to develop IBM cloud services optimized for iOS. Targeted markets include security, mobile device management (MDM), and big data/analytics. New enterprise-focused AppleCare services will be offered, as will ""new packaged offerings from IBM for device activation, supply and management."" Apple, which maintains an outsized share of enterprise mobile hardware activations, has tried hard to grow its business footprint during the Tim Cook era. Aside from any value provided by the new apps/services, Big Blue's credibility and relationships with Global 2000 firms should provide a shot in the arm for Apple's efforts. As for IBM, the deal adds to a mobile software/services push that has already resulted in a string of acquisitions and product launches. 
+AAPL +1.4% AH. IBM +2%. BlackBerry (BBRY) -3.2%, as investors worry about the MDM portion of the alliance. MobileIron (NASDAQ:MOBL) could also be affected by it.
+
+Update: Tim Cook, discussing the deal with re/code: ""We?�re good at building a simple experience and in building devices ... The kind of deep industry expertise you would need to really transform the enterprise isn?�t in our DNA. But it is in IBM?�s.""  ",0.9906,positive,0.8037756097560975
+162,2014-06-11,-1.69,Bloomberg: IBM close to selling chip unit to Globalfoundries,"
+
+
+Bloomberg's report follows an April WSJ report calling Globalfoundries ""the lead candidate"" to buy IBM's (IBM -0.6%) chip manufacturing/foundry ops. Notably, Globalfoundries is said to be more interested in Big Blue's chip engineers and IP than its relatively old wafer fabs.
+A source states the unit has been losing as much as $1.5B/year. Its Q1 sales fell 16% Y/Y amid continued share losses to Globalfoundries, Samsung, and foundry giant TSMC (TSM -0.5%).
+Nonetheless, the business claims high-profile foundry clients such as Cisco and Juniper, and has a history of leading the way in mass-producing new chip technologies/materials, such as silicon-on-insulator (NYSE:SOI) and silicon germanium (SiGe).
+That could help Globalfoundries as it tries to gain ground against TSMC, which has a long list of blue-chip mobile processor, GPU, and FPGA clients.
+The WSJ's report stated the unit has received $1B+ bids - less than the $2B+ IBM was initially seeking.
+ ",0.9846,positive,0.8037756097560975
+163,2014-05-19,-0.05,"IBM buys startup to give Watson ""depth of personality""","
+
+
+IBM has bought Cognea, a startup developing virtual assistants that interact with users via A.I.-based personalities. Terms are undisclosed.
+Big Blue plans to integrate Cognea's technology with its Watson A.I. hardware/software, with the goal of allowing Watson to deliver ""conversational services."" Potential end-markets mentioned by the company include ""virtual personal assistants, health coaches, companions for elderly people, investment advisors, tutors, travel agents, customer care agents and shopping advisors.""
+Google (Now), Apple (Siri), Nuance (Dragon Mobile), and Microsoft (Cortana) are few of the companies that have already made big investments in virtual assistant platforms.
+IBM, hungry to halt double-digit server revenue declines, promised to invest over $1B in Watson in January, including $100M in startups working on software/services for Watson systems. But while the company is hoping Watson produces $10B/year in revenue in ten years, the platform had only produced $100M in revenue as of last October.
+ ",0.9711,positive,0.8037756097560975
+164,2014-05-14,-2.875,IBM -2% as $20 EPS target outweighed by cash flow questions,"
+ IBM (IBM -1.9%) execs tried to convince those at its analyst day meeting today that its business will stabilize, but apparently skepticism abounds, as shares are the weakest performer on the Dow near the close.
+CFO?Martin Schroeter reiterated IBM's EPS target for 2015 of ?�at least $20,??a matter that was scrutinized by the Street in reports leading up to the meeting.
+Barclays analyst Ben Reitzes writes that the points discussed today are about as expected, but he's more concerned with cash flow than with the EPS goals; IBM's free cash flow has trended below non-GAAP EPS for the last two years, which could point toward longer term problems, and Reitzes sees $16B free cash flow guidance as challenging considering how much it must need working capital improvements to hit that figure.  ",0.9532,positive,0.8037756097560975
+165,2014-04-23,-0.34600000000000003,Buffett still a fan of IBM,"
+Squashing rumors he's turned sour on IBM, Warren Buffett - appearing on CNBC - says he's not surprised by the company's weak Q1 results. He hasn't sold a share of the stock, he says, and expects to add more to his holdings. The stock has run about $0.50 higher on the Oracle's comments, now back to flat on the session. ",0.8118,positive,0.8037756097560975
+166,2014-04-17,-5.265,IBM remains lower; Street thinks guidance was effectively cut,"
+
+Though IBM (IBM -3.2%) reiterated its 2014 EPS guidance, it was ""really reset lower"" given the company lowered its full-year tax rate forecast to 20% from 23%, says Cowen's Moshe Katri, reiterating a Hold. ""The big issue is IBM's legacy businesses are getting hit by multiple points.""
+Bernstein's Toni Sacconaghi reiterates an Outperform, but nonetheless states IBM's Q1 numbers ""likely reinforced prevailing concerns about revenue growth, cash flow and earnings quality.""
+
+Wells Fargo (Market Perform) sees some silver linings: Services margins grew, WebSphere middleware sales were up 12% Y/Y, and cloud, security, and mobility sales are growing well. But it also notes services signings of $11.2B missed a $13B consensus, and that Power (-22% Y/Y), mainframe (-40%, six quarters into a product cycle), and Chinese (-20%) sales remain weak.
+Mentioned on the CC (transcript): 1) IBM still expects to grow 2014 free cash flow from last year's $15B, in spite of producing just $600M in Q1. 2) Though $8.2B was spent on buybacks in Q1, full-year buybacks are expected to be less than 2013's $13.9B. 3) IBM's app outsourcing ops have seen ""pretty substantial price pressure.""
+Cloud-related revenue (boosted by SoftLayer) rose 50% Y/Y, and is now on a $2.3B/year run rate, but that still makes it less than 3% of total revenue. Meanwhile, job cuts led opex to fall 8% Y/Y to $7.4B.
+
+Q1 results, guidance/details, PR
+ ",0.9877,positive,0.8037756097560975
+167,2014-04-16,-0.511,"IBM -4.1% AH; buybacks boost EPS, but hardware sales remain weak","
+
+
+IBM is reiterating full-year guidance for EPS of at least $18 (consensus is at $17.84).
+Big Blue spent an eye-popping $8.2B on buybacks in Q1, up from $5.8B in Q4. That allowed EPS to nearly meet estimates in spite of a $450M revenue miss. On the other hand, IBM's tax rate (the subject of recent scrutiny) rose to 20% from Q4's 11% and Q3's 16%. A 90 bps Y/Y increase in gross margin to 47.6% also boosted EPS.
+Hardware/chip sales remain bleak: They fell 23% Y/Y vs. 26% in Q4.? Software +2% vs. +3%, global technology services -3% vs. -4%, global business services flat vs. +1%, global financing +3% vs. flat. The services backlog stood at $138B at quarter's end, down $5B Q/Q and $3B Y/Y.
+Asia-Pac remains a weak spot: Sales fell 12% Y/Y. Americas were down 4%, and EMEA up 4%. ""Growth markets"" and BRIC sales each fell 11%.
+Q1 free cash flow was just $0.6B, well below net income of $2.6B. Cash on hand fell to $9.7B from $11.1B at the end of Q4, and non-global financing debt rose to $15.7B from $12.2B.
+
+Q1 results, PR
+ ",0.9432,positive,0.8037756097560975
+168,2014-04-16,-0.511,"International Business Machines Corporation misses by $0.01, misses on revenue","
+
+International Business Machines Corporation (NYSE:IBM): Q1 EPS of $2.54 misses by $0.01.
+Revenue of $22.48B (-4.0% Y/Y) misses by $450M.
+Shares -2.3%.
+ ",0.304,positive,0.8037756097560975
+169,2014-04-15,-0.618,Citi downgrades IBM ahead of earnings,"
+Citing valuation, Citi has cut IBM (IBM -0.7%) to Neutral ahead of the IT giant's Wednesday Q1 report. The firm's PT has been cut to $200 from $235.IBM only goes for 11x 2014E EPS after handily underperforming the tech sector since last summer. But worries about the company's earnings quality (low tax rates have boosted EPS, and free cash flow has been deteriorating) and growth outlook remain high following a string of revenue misses.Shares are modestly lower on a morning when equities are up slightly. ",0.7276,positive,0.8037756097560975
+170,2014-04-10,-0.7909999999999999,"IBM joins Oracle, Salesforce in making a cloud marketing acquisition","
+
+IBM (IBM +1.1%) is acquiring Silverpop, a developer of cloud-based marketing automation software to 8K+ clients, for an undisclosed sum.
+Big Blue praises Silverpop's ability to enable personalized interactions with potential clients, and to provide ""sophisticated automation capabilities more commonly applied in lower volume B2B scenarios to complex B2C environments.""
+Its software will be leveraged by IBM's 140 Ready for Smarter Commerce marketing partners, and integrated within a new IBM cloud marketing suite - details for the latter are due in May.
+Silverpop competes to varying degrees against Oracle-acquired Eloqua and Responsys, Salesforce-acquired ExactTarget, and Adobe's Marketing Cloud platform. It also competes against Marketo (MKTO -7.5%) and Constant Contact (CTCT -4.5%), which are selling off hard today amid a tech rout. Both companies have been lifted by M&A speculation in the past.
+The companies are all looking to profit from a shift in IT spend towards CMOs. IDC has observed IBM's efforts in this area could lead it to face off more against ad agencies such as WPP and Omnicom.
+Past marketing-focused IBM acquisitions: DemandTec, Xtify, Unica
+
+ ",0.9727,positive,0.8037756097560975
+171,2014-03-10,-1.063,IBM's Rometty: We missed our targets,"
+ IBM (NYSE:IBM) CEO Ginni Rometty tells it like it is, acknowledging in a letter to investors that the company ""did not meet our expectations."" IBM will continue to alter its focus to cloud services and data analytics while modifying its hardware products. ""While we continue to remix to higher value, we must also address those parts of the business that are holding us back,"" said Rometty. Declining demand for hardware and soft sales in growth markets have hit revenue for almost two years, prompting IBM to offload assets and reduce staff.  ",0.9438,positive,0.8037756097560975
+172,2014-02-28,-0.08199999999999999,IBM reportedly laying off up to 25% of hardware/chip division,"
+
+
+A source tells CNET IBM's (IBM +0.3%) layoffs involve up to 25% of employees in its hardware/chip unit (i.e. the Systems & Technology Group).
+The division saw a 26% Y/Y sales drop in Q4, bleeding share to rivals ranging from from H-P to EMC to TSMC. Since then, IBM has announced it's selling its x86 server business (sales -16% in Q4) to Lenovo for $3.2B, and the WSJ has reported Big Blue is thinking of unloading its chip manufacturing ops (believed to be losing money).
+IBM expects to record a $1B workforce rebalancing charge in Q1.
+
+Previous: Major IBM job cuts reportedly set to start
+ ",0.8449,positive,0.8037756097560975
+173,2014-02-25,-0.18100000000000002,Report: Major IBM job cuts to start tomorrow,"
+
+Citing sources within the company, IBM (IBM +0.1%) workers group Alliance@IBM? says the IT giant will begin notifying employees affected by a major round of job cuts tomorrow.
+Big Blue has already said it expects to record a $1B workforce rebalancing charge in Q1, as it tries to improve its cost structure in the face of ongoing revenue declines.
+Bernstein's Toni Sacconaghi thinks it costs IBM ~$70K, on average, to let an employee go. He previously forecast at least 13K of the company's 434K employees could be laid off.
+IBM, still maintaining a 2015 EPS goal of $20, has promised to keep 3,100 jobs in its home state of New York through 2016. That's up from a prior pledge of 2,350.
+ ",0.8843,positive,0.8037756097560975
+174,2014-01-31,-0.557,"Twitter buys patents from IBM, enters into cross-licensing deal","
+
+Twitter (TWTR -1.2%) has bought 900 patents from IBM (IBM -0.9%) for an undisclosed sum.? The sale, along with an attached cross-licensing agreement, ends an IP dispute between Twitter and IBM related to patents the latter believed the former was infringing.
+In prior years, IBM has sold 750 patents to Facebook, and over 2K patents to Google. The company has consistently topped U.S. patent grant rankings for two decades, and is believed to generate ~$1B/year in patent licensing revenue.
+The deal shores up Twitter's relatively paltry IP portfolio, a portfolio that some have considered a business risk. Twitter, through its Innovator's Patent Agreement, has promised it won't use patents created by its own engineers/designers for ""offensive litigation"" without their creators' consent.
+ ",0.9749,positive,0.8037756097560975
+175,2014-01-28,-0.86,IBM reportedly considering sale of software-defined networking unit,"
+
+
+Sources tell re/code IBM (IBM -0.5%), fresh off selling its x86 server unit to Lenovo, is thinking of selling its software-defined networking (SDN) unit.
+Big Blue is reportedly asking for as much as $1B, a figure one exec calls ""pretty optimistic."" The company is said to have informally approached Cisco, Dell, H-P, Juniper, and Fujitsu ""to gauge interest."" Cisco, Juniper, and H-P have each already launched a slew of SDN-related products.
+SDN, a relatively new technology/concept. shifts network intelligence and provisioning capabilities to software-based controllers. By doing so, it aims to improve provisioning times and resource efficiency, and allow proprietary switches to be replaced with commodity/white-label gear; that last feature has many Cisco investors on edge.
+Back in 2012, VMware paid ~$1.2B for Nicira, widely considered the early leader in the SDN software space.
+ ",0.9827,positive,0.8037756097560975
+176,2014-01-28,-0.86,International Business Machines Corp. declares $0.95 dividend,"
+
+International Business Machines Corporation (NYSE:IBM) declares $0.95/share quarterly dividend, in line with previous.
+Forward yield 2.15%
+Payable March 10; for shareholders of record Feb. 10; ex-div Feb. 6.
+ ",0.7869,positive,0.8037756097560975
+177,2014-01-24,-2.532,Was a company you own at Davos? Then sell.,"
+
+What was the CEO of a company you're an owner of up to this week? An index of companies whose execs regularly attend Davos has vastly underperformed the market since 2009.
+Attendance at the gathering tends to be dominated by the financials, with GS, C, HSBC, JPM, LAZ, MS, OTCPK:SCBFF, BAC, ITUB, and UBS leading the way to prove their bona fides as thought leaders. Also spotted were the heads of DOW, and PEP.
+Notably absent: Buffett (BRK.A, BRK.B) , Tim Cook (NASDAQ:AAPL) (Jobs never attended either), Jeff Immelt (NYSE:GE), and Virginia Rometty (NYSE:IBM). Google's (NASDAQ:GOOG) founders and Mark Zuckerberg (NASDAQ:FB) stopped going a couple of years ago.
+ ",0.4698,positive,0.8037756097560975
+178,2014-01-22,-5.064,IBM results not impressing sell-side,"
+
+""Disappointing"" is the theme as the sell-side comments on IBM's Q4 results from last night.
+""No near-term relief"" is the title of Deutsche's note (and Deutsche is a bull on the stock). The company is likely to remain in the ""penalty box"" until it can show evidence of stability in hardware and improved execution in emerging markets and China.
+Investors will likely mull over whether IBM will need to reset the 2015 Roadmap this spring, says JPMorgan, expecting shares to be under pressure near-term and lowering the PT to $175.
+Credit Suisse reiterates its Sell rating and $160 price target on the weaker-than-expected numbers.
+Shares?-3.2%?premarket
+ ",0.6618,positive,0.8037756097560975
+179,2014-01-21,-1.36,IBM planning more job cuts; Q4 tax rate draws scrutiny,"
+IBM, which has already carried out a string of job cuts in recent quarters, expects to record a fresh $1B workforce rebalancing charge in Q1.The news follows a quarter in which a 5.5% Y/Y revenue drop led IBM's SG&A spend to rise to 21.6% of revenue from 20.2% a year earlier, and its R&D spend to rise to 5.7% of revenue from 5.4%.In addition to its huge buybacks, much attention is being given to the role an 11% tax rate (down from 16% in Q3) played in boosting IBM's earnings. Fund manager Mike Bergen estimates EPS would've been $0.80 lower if Big Blue's tax rate was at the 23% level expected by analysts.Software (+3% Y/Y) was a relative bright spot, thanks to healthy middleware (+15%) and database (+5%) sales. ""Cloud revenue,"" a catch-all phrase covering a variety of hardware, software, and services sales, rose 69% Y/Y to $4.4B, boosted by the SoftLayer acquisition.2013 free cash flow was $15B, less than net income of $18B. IBM ended Q4 with $11.1B in cash, and $12.2B in non-global financing debt. CEO Ginni Rometty insists IBM is on track to hit its 2015 EPS goal of ""at least"" $20.IBM -2.9% AH.? More on IBM's Q4. ",0.9877,positive,0.8037756097560975
+180,2014-01-21,-1.36,Buybacks give IBM a big EPS lift; hardware sales continue plunging,"
+
+
+IBM has established 2014 EPS guidance of $18, slightly above a $17.97 consensus.
+Revenue continues to be pressured by nosediving hardware/chip sales, which declined 26% Y/Y in Q4 after dropping 17% in Q3 and 12% in Q2. Mainframes -37%, Power servers (UNIX-driven) -31%, x86 servers (reportedly on the block again) -16%, storage -13%, chips -33%. The numbers suggest share loss to H-P, Dell, TSMC, and others.
+Global Technology Services revenue -4%, same as Q3 and Q2. Global Business Services +1%. Services backlog is at $143B, +1% Q/Q and +2% Y/Y. Software +3% vs. +1%, global financing flat vs. +6%.
+
+$5.8B was spent on buybacks, up from $1.9B in Q3 and providing a big lift to EPS. Gross margin, which has been steadily rising in recent years, rose 30 bps Y/Y to 52.6%.
+Asia-Pac sales, pressured by NSA fallout, were soft again, declining 12% Y/Y; they dropped 15% in Q3. Americas fell 3%, and EMEA was up 1%. Sales to ""growth markets"" declined 5% after falling 9% in Q3.
+
+IBM -2.2% AH. CC at 4:30PM ET.
+
+Q4 results, PR
+ ",0.9546,positive,0.8037756097560975
+181,2014-01-21,-1.36,"IBM beats by $0.13, misses on revenue","
+
+International Business Machines (NYSE:IBM): Q4 EPS of $6.13 beats by $0.13.
+Revenue of $27.7B (-5.5% Y/Y) misses by $560M.
+ ",0.0174,positive,0.8037756097560975
+182,2013-12-12,-1.499,"Avon halts $125M SAP implementation, cites user frustration","
+
+Beauty products giant Avon (AVP -1.3%) expects to take a $100M-$125M charge related to the failed rollout of an SAP-based (SAP -0.6%) order management software system. The WSJ states the system was ""so burdensome and disruptive to Avon representatives' daily routine that they left in meaningful numbers.""
+As Steve Rosenbush notes, Avon's decision, and the employee backlash that triggered it, shines a light on how corporate workers are increasingly demanding the business apps they use be as intuitive and user-friendly as the consumer apps they rely upon.
+This trend, which ties into the ""consumerization"" of IT, poses a challenge to traditional enterprise software giants such as SAP, Oracle (NYSE:ORCL), and IBM, and often works to the benefit of enterprise cloud software providers whose offerings emphasize ease-of-use and flexibility over the richest possible feature set.
+ ",0.9533,positive,0.8037756097560975
+183,2013-12-11,-1.5730000000000002,IBM exec offers cautious macro view,"
+
+IT services demand ""depends on what the economic climate is, and that has not been very encouraging,"" says Erich Clementi, head of IBM's Global Technology Services (GTS) unit. ""Europe has shown signs of recovery. North America has been a little more uncertain.??
+The remarks comes less than two months after a big Q3 revenue miss blamed on a mixture of macro issues (particularly in emerging markets) and sales execution.
+Though IBM's services backlog was flat Q/Q and up 2% Y/Y in Q3 to $141B, GTS revenue fell 4% Y/Y and global business services revenue fell 5%. Together, the businesses accounted for 59% of IBM's revenue, and 51% of its op. profit.
+ ",0.9209,positive,0.8037756097560975
+184,2013-11-25,-1.9340000000000002,Most popular hedge fund shorts according to Goldman monitor,"
+
+The most popular shorts according to Goldman's Hedge Fund Monitor which analyzes the positions of 783 funds with $1.6T in assets (in reverse order, i.e. the last in this list is the most heavily shorted): SYY, KO, TGT, BMY, SNDK, UPS, SLB, GE, CVX, PFE, CAT, COP, EMC, PG, NFLX, WMT, JNJ, DIS, CRM, VZ, IBM, XOM, T, GILD, INTC.
+A quick scan finds Netflix making both the top 25 list of most heavily shorted and the top 20 list of most concentrated longs. List of 20 longs is here.
+ ",0.9373,positive,0.8037756097560975
+185,2013-11-22,-2.319,IBM falls as Druckenmiller makes short case,"
+
+Hedge fund manager Stanley Druckenmiller has called IBM (IBM -1.5%) one of the ""more high probability shorts"" he's seen in years, and declares Amazon Web Services (AWS) is ""killing"" the IT giant.
+He's also critical of Big Blue's slumping free cash flow, and its efforts to boost flagging growth via M&A.
+AWS is expected to pull in less than $4B in revenue this year, but is growing at a rapid clip. In addition, analysts have argued every IT dollar eaten up by cloud services results in a greater amount of on-premise IT spend being lost.
+
+IBM recently bought Web hosting/cloud infrastructure provider SoftLayer for a reported $2B in order to better take on Amazon, as well as rivals such as Microsoft, Google, VMware, and Rackspace.
+Though off its October lows, IBM remains down 5% YTD in a year during which the Nasdaq is up over 30%. Shares were hit hard last month by a Q3 revenue miss.
+ ",0.9873,positive,0.8037756097560975
+186,2013-10-30,-1.6059999999999999,Amazon wins CIA cloud contract as IBM ends protest,"
+
+IBM (IBM -0.2%) has withdrawn its protest of a $600M contract handed by the CIA to Amazon Web Services (AMZN +0.3%). The withdrawal, which follows a court ruling in Amazon's favor, clears the way for Amazon to build a private cloud infrastructure for the CIA in what's likely to serve as an important reference deal when competing for future enterprise/government contracts.
+Amazon's ""Other"" North American sales, dominated by AWS, jumped 56% Y/Y in Q3 to $1.01B. However, much of AWS' growth thus far has come from Web/cloud service providers such as Dropbox, Pinterest, Netflix, and Salesforce's Heroku unit. While AWS has gradually been making enterprise inroads, it also faces strong competition here from IBM, Microsoft's Windows Azure, VMware's vCloud Hybrid, and Verizon Cloud, among others.
+
+IBM scored a 10-year, $1B, cloud services deal from the Department of the Interior in August.
+ ",0.979,positive,0.8037756097560975
+187,2013-10-25,-0.774,IBM licenses ARM CPU/GPU cores to bolster custom ASIC business,"
+
+IBM (IBM -0.6%) is licensing four ARM (ARMH +2.1%) Cortex CPU cores to offer to clients of its custom ASIC business, as well as ARM's Mali GPU cores. (PR)
+
+The deal is notable both due to the size of IBM's custom ASIC ops - clients include Cisco and Juniper - and the fact the business has thus far relied on Big Blue's proprietary Power CPU cores.
+The deal comes shortly after Broadcom (BRCM +0.7%), which has traditionally relied on cores from Imagination's (OTCPK:IGNMF) MIPS unit, announced it would build 64-bit network processors (NPUs) based on ARM cores using a next-gen 16nm process. Broadcom has taken out a costly ARM architectural license to build custom cores, and promises unmatched performance.
+ARM-based cores have historically had a small presence in the NPU space, which has been dominated by Power, MIPS, and (largely Intel-based) x86 offerings. But the tide is turning: In addition to IBM and Broadcom, NPU vendors Cavium, Freescale, and LSI have embraced ARM.
+NPUs are bound to be a lower-volume business for ARM than mobile processors. But they also carry higher ASPs, and potentially (if 64-bit cores are widely used) higher royalty rates.
+IBM's chip unit, which faces tough competition from foundry rivals such as TSMC and GlobalFoundries, posted 1% Y/Y sales growth in Q3.
+ ",0.9915,positive,0.8037756097560975
+188,2013-10-18,-0.856,Obamacare exchanges providing insurers with wrong data,"
+ The technology problems afflicting the roll-out of health-insurance exchanges seem to be even worse than thought, with insurers saying that the marketplaces are generating incorrect information.
+ ""Errors include duplicate enrollments, spouses reported as children, missing data fields and suspect eligibility determinations,"" the WSJ writes. The problems are damaging the ability of insurers to process even the small numbers of people who have signed up. ""The longer this takes to resolve...the harder it will be to get people to (come back and) sign up,"" said Aetna (NYSE:AET) CEO Mark Bertolini. Other firms that could be affected include UnitedHealth (NYSE:UNH), WellPoint (WLP), Humana (NYSE:HUM) and Molina Healthcare (NYSE:MOH). The IT contractors involved include IBM (NYSE:IBM), Infosys (NASDAQ:INFY) and CGI Group (NYSE:GIB). ETFs: XLV, XHE, VHT, FXH, IHF, IHI, IYH, PTH, RYH, PSCH, RXL, RXD, XHS-OLD.  ",-0.3256,negative,0.8037756097560975
+189,2013-10-17,-9.699,More on IBM: Growth markets chief reportedly replaced,"
+
+
+The WSJ reports IBM (IBM -6.5%) has ""reassigned"" James Bramante, the head of its growth markets sales efforts, following a very rough Q3. IBM's sales to growth markets fell 9% Y/Y in the quarter, with BRIC markets sales dropping 15% and Chinese sales 22%.
+IBM sales chief Bruno Di Leo is reportedly taking over Bramante's job - he ran the unit before being promoted to his current position in early 2012 - and has been tasked with reassembling IBM's growth markets sales teams.
+In an internal e-mail, CEO Virginia Rometty criticized IBM's hardware and growth markets sales execution, while insisting the company's growth strategy is ""correct.""
+Back in April, IBM ""reassigned"" hardware chief Rodney Adkins following a weak Q1 for his unit. IBM just reported a 17% Y/Y hardware sales drop for Q3, matching Q1's decline.
+More on IBM
+ ",0.9616,positive,0.8037756097560975
+190,2013-10-17,-9.699,IBM makes new 52-week lows post-earnings; are more acquisitions on tap?,"
+
+UBS' Steve Milunovich, who downgraded IBM (IBM -6.8%) to Hold following its $1.07B Q3 revenue miss: ""Results could improve as 2014 unfolds, but the next two quarters likely won?�t be too encouraging ... Normally we would wait out mediocre results ... but there are too many questions this time."" He observes IBM was only able to maintain full-year EPS guidance because of the $0.40/share Q3 boost provided by a lower tax rate.
+SocGen (Hold) thinks IBM might once more turn to M&A to lift growth. In particular, the firm considers major app software purchases a possibility as database and middleware sales are pressured by the cloud transition. IBM's middleware sales rose 1% Y/Y in Q3, and ""information management"" sales (inc. databases) rose 2%. OS sales, hurt by server weakness, fell 4%.
+
+CLSA is staying bullish, praising IBM's efforts to deal with industry pressures by making large analytics/cloud investments. Wells Fargo (Market Perform) expects a new buyback to be announced on Oct. 29, but also thinks ""visibility to the 2015 $20 EPS target has become murkier.""
+More on IBM's Q3: I, II. CC transcript.
+ ",0.9861,positive,0.8037756097560975
+191,2013-10-17,-9.699,A roundup of tech ratings changes,"
+
+IBM (IBM -5.9%) has been cut to Neutral by UBS following its big Q3 revenue miss.
+Xilinx (XLNX -5%) has been downgraded to neutral ratings by Piper and Raymond James, and upgraded to Outperform by Baird, and after beating FQ3 estimates and issuing soft FQ4 revenue guidance.
+SanDisk (SNDK +5.8%) has been upgraded to Strong Buy by Needham after soundly beating Q3 estimates and issuing decent Q4 revenue guidance.
+JinkoSolar (JKS +10.3%) has been has been upgraded to Outperform by Credit Suisse.
+ASML (ASML -1.9%) has been cut to Neutral by HSBC a day after releasing its Q3 results.
+CEVA (CEVA -1.3%) has been cut to Neutral by Wedbush.
+Salesforce (CRM +0.3%) has been started at Buy by Argus.
+SolarCity (SCTY +8.9%) has been started at Overweight by JPMorgan a week after providing strong Q3 metrics and even stronger 2014 guidance.
+NQ Mobile (NQ +6%) and Vipshop (VIPS -0.7%) havebeen started at Outperform by Macquarie.
+ ",0.9079,positive,0.8037756097560975
+192,2013-10-15,-1.883,IBM talking with Allianz about major outsourcing deal,"
+
+German insurance giant Allianz says it has begun exclusive talks with IBM (IBM -0.9%) regarding an outsourcing deal that would lower the number of data centers it relies on from 140 to 6, all of which would be managed by Big Blue. Allianz expects the consolidation effort, which it says will help create a private cloud infrastructure, to be finished by the end of 2017.
+IBM has been trying to focus its outsourcing efforts on differentiated, higher-margin services such as data center consolidation/management, even at the cost of losing out on deals involving more commoditized services. The company sold its customer care outsourcing unit to Synnex last month for $505M.
+ ",0.9062,positive,0.8037756097560975
+193,2013-09-30,-1.4180000000000001,"Apple, Google top list of most valuable brands","
+
+Apple (NASDAQ:AAPL) and Google (NASDAQ:GOOG) passed Coca-Cola to take the top two spots in Interbrand's annual ranking of the world's most valuable brands. 2013 marks the first time in the history of the 13-year-old survey Coke? wasn't ranked #1. (PR)
+Interbrand estimates Apple's brand value rose 28% Y/Y to $98.3B, and Google's 34% to $93.3B. Four other tech names made the top-10: IBM (#4, +4% to $78.8B), Microsoft (MSFT - #5, +3% to $60B), Samsung (OTC:SSNLF, OTC:SSNGY - #8, +20% to $39.6B), and Intel (INTC - #9, -5% to $37.3B).
+Though it only came in at #19, Amazon's (NASDAQ:AMZN) brand value is estimated to have risen 27% to $23.6B. Likewise, Interbrands thinks EBAY's brand value rose 20% to $13.2B, leading its ranking to rise 8 spots to #28.
+ ",0.9608,positive,0.8037756097560975
+194,2013-09-27,-2.69,"Accenture slides following FQ4 report, takes IBM lower with it","
+
+The soft revenue and bookings guidance provided with Accenture's (ACN -3.8%) FQ4 results are oveshadowing the company's dividend hike and $5B buyback expansion. Consulting/outsourcing rival IBM (IBM -1.7%) is trading lower in sympathy. Wipro (WIT -3.2%) is also selling off, but outsourcing peers Infosys (INFY -0.3%) and Cognizant (CTSH -0.6%) have pared their morning losses.
+Accenture's CC remarks (transcript) likely aren't helping. CFO David Rowland mentioned that while outsourcing bookings were healthy (book-to-bill of 1.4), all 3 consulting bookings segments - management consulting, tech consulting, and systems integration - were at the low end of its B2B guidance ranges. Total consulting B2B was 1.0
+Rowland adds Accenture thinks the ""cycle of lower growth"" it has seen in recent quarters ""won't change much"" near-term.
+Echoing comments from Cisco's John Chambers, CEO Pierre Nanterme mentioned Accenture is seeing more emerging markets ""volatility,"" even as the U.S. performs well and Europe stabilizes.
+Janney's Joseph Foresi is staying bullish, arguing Accenture is ""well positioned given its high end capabilities to gain market share as outsourcing becomes more commoditized.""
+ ",0.9413,positive,0.8037756097560975
+195,2013-09-19,-0.8390000000000001,IBM buys document-viewing software firm,"
+
+IBM (IBM -0.2%) has acquired Daeja Image Systems, a U.K.-based developer of software for viewing/annotating scanned documents and images.Terms are undisclosed. (PR)
+IBM asserts Daeja's technology ""makes it easy to view very large files,"" such as car accident photos and patient x-rays. The company will be added to IBM's sizable and growing enterprise content management (ECM) unit, which already offers document imaging/capture tools (among other products).
+The ECM unit's rivals include Open Text (OTEX - also offers imaging software) and EMC's Documentum unit.
+ ",0.9036,positive,0.8037756097560975
+196,2013-09-17,-0.807,Chanos: Analysts fooled by tech acquisitions,"
+
+A number of big cap tech companies have fooled this generation of analysts, says Jim Chanos (about minute 11 of the video), by acquiring their way into growth as organic expansion grinds to a halt. He won't name names (HPQ is already trodden ground), but Cory Johnson's mentioning of IBM and 3D Systems (NYSE:DDD) as fitting the bill has Chanos nodding his head, ""Acquisitions are a way of capitalizing R&D.""
+""I'm very leery of tech companies that become value stocks,"" he says, partly explaining the reason for exiting another long - his stake in Microsoft (NASDAQ:MSFT). Apple (NASDAQ:AAPL)? He considers it more a consumer products stock than tech stock, and believes the company is still innovating.
+Tech ETFs:?QTEC, IGM, IYW, PTF, MTK, XLK, VGT, RYT, FXL, PSCT, TECL, ROM, TECS, REW, TDIV.
+Also from the video: Chanos on China.
+ ",0.9597,positive,0.8037756097560975
+197,2013-09-17,-0.807,IBM promises to invest $1B in Linux,"
+
+IBM (IBM -0.4%) says it will invest $1B over the next 4-5 years in Linux and related open-source tech for use with Power server line. Among other things, the company will create Linux app development programs for Power (System p) servers, and help enable software development for its 12-core Power8 CPUs (due next year).
+The announcement follows a quarter in which sales of IBM's Power servers, which use proprietary Power CPUs and tend to have higher ASPs than Big Blue's x86 servers, fell 25% Y/Y.
+Plunging demand for UNIX servers had much to do with the drop; IDC estimates industry-wide UNIX server sales fell 21% Y/Y in Q2. That compares with a 5.1% drop for Windows servers, and 1.5% growth for Linux servers. The firm believes Linux now accounts for 23.2% of industry server revenue, and UNIX just 15.1%.
+Enterprise Linux leader and IBM partner Red Hat (RHT -0.8%) has to be pleased with the show of support.
+IBM is also promising to invest heavily in R&D for is System x x86 server unit, which saw an 11% Y/Y sales drop in Q2 (IDC thinks industry x86 sales only fell 1.3%) and was reportedly on the block earlier this year.
+In addition to helping System p server sales, IBM's Linux spending could bolster its new efforts to sell its Power CPUs to 3rd-party OEMs. Many of the Internet companies targeted by the effort are big Linux fans, but they depend almost entirely on x86 servers for now.
+ ",0.9736,positive,0.8037756097560975
+198,2013-08-28,-0.473,Gartner: Server sales fell 3.8% Y/Y in Q2,"
+
+The decline is a little better than Q1's 5% drop, but still points to a bleak demand environment, as enterprise attempts to improve server efficiency (via consolidation and virtualization) and a mix shift towards cheaper, white-label servers preferred by Internet/cloud companies hurt sales. (PR)
+IDC is even more pessimistic, estimating revenue fell 6.2% and units 1.2% (lower ASPs). (PR)
+x86 servers (largely INTC-based) continue gaining share: Gartner thinks sales rose 2.1% Y/Y and units 4.5%. The opposite holds for Unix servers: sales -25.3% and units 27.4%. ""Other"" server sales (inc. IBM mainframes) rose 6.9%.
+IBM and H-P (NYSE:HPQ), whose enterprise hardware units have fallen on hard times, remain the industry's top vendors, but continue to bleed share. IBM's share fell 160 bps Y/Y to 25.6%, and H-P's 420 bps to 25%.
+
+DELL-OLD and Cisco (NASDAQ:CSCO), as demonstrated by recent earnings numbers (I, II), remain share gainers. Dell +210 bps to 17.7%, Cisco +150 bps to 4.4%. Oracle (NYSE:ORCL), which is seeing rising (Intel-based) engineered system sales and plunging Unix/SPARC CPU server sales, is assigned a 5.8% share (-20 bps).
+""Other"" vendors, including white-label firms, had a 21.5% share (+230 bps). IDC estimates sales of density-optimized servers (beloved by Internet companies) rose 26.6% to $735M, and now make up 6.2% of server revenue.
+ ",0.9841,positive,0.8037756097560975
+199,2013-08-27,-1.63,IBM channel partner chief retires,"
+
+Bill Donohue, officially known as IBM's VP of business partner and midmarket sales, is retiring following a 32-year career with Big Blue. North American ""competitive sales initiatives"" VP Jim Gregory will fill in while IBM searches for a full-time replacement.
+Donohue was responsible for overseeing IBM's numerous relationships with channel resellers/systems integrators. His retirements comes a few months after IBM ""reassigned"" hardware chief Rodney Adkins following a disappointing Q1.
+ ",0.8096,positive,0.8037756097560975
+200,2013-08-19,-0.905,"AllThingsD: China not investigating IBM, EMC, and Oracle","
+
+Countering last week's Reuters report, AllThingsD's Hesseldahl reports China's Ministry of Public Security isn't investigating IBM, EMC, and Oracle (NYSE:ORCL) over security concerns.
+However, Hesseldahl does state U.S. tech companies are on edge over ""a noticeable escalation in tension between the U.S. and China on the cyber-security front."" Recent NSA spying disclosures, hacking incidents blamed on the Chinese government, and efforts to prevent Huawei and ZTE from selling equipment to U.S. carriers are the clear triggers.
+A source at a U.S. company notes ""there has been a clear uptick in mentions in [Chinese] tech and business media of a growing desire among Chinese IT customers to 'buy Chinese.'""
+ ",0.944,positive,0.8037756097560975
+201,2013-08-16,-0.36700000000000005,"China to probe IBM, Oracle and EMC over security","
+ China's Ministry of Public Security and a cabinet-level research center are reportedly planning to investigate IBM (NYSE:IBM), Oracle (NYSE:ORCL) and EMC (EMC) over security issues. The prospective inquiry comes after Edward Snowden's revelations of the National Security Agency's surveillance of user data at major tech companies, and that it hacked into critical networks at Chinese and Hong Kong universities. It also follows U.S. accusations of widespread Chinese hacking and amid American hostility to telecom infrastructure companies Huawei and ZTE because of security concerns. The probe would add to a growing number of Chinese investigations into major foreign firms, although these have focused on their business practices.  ",0.9391,positive,0.8037756097560975
+202,2013-08-15,-1.4180000000000001,IBM scores $1B cloud services deal; Trusteer price reportedly $800M-$1B,"
+
+The Department of the Interior has awarded IBM (IBM -0.6%) a 10-year, $1B contract to provide a slew of cloud infrastructure services.
+IBM's SmartCloud government and enterprise offerings are part of the package, as are SAP app hosting and cloud services tied to IBM's AIX (UNIX) OS.
+The contract is IBM's biggest government cloud win to date, and comes as Big Blue continues to protest a $600M contract granted to Amazon Web Services by the CIA. IBM significantly grew its cloud infrastructure/Web hosting reach in June by acquiring private SoftLayer for a reported ~$2B.
+Meanwhile, Israel's Ynet reports IBM paid $800M-$1B to acquire threat-protection software vendor Trusteer. IBM notes 7 of the top-10 U.S. banks, and 9 of the top-10 U.K. banks, use Trusteer to protect against ""financial fraud and cyber attacks.""
+Like many security software upstarts, Trusteer relies on a cloud-based architecture to monitor Web activity and protect client hardware (inc. mobile devices). As Cisco's purchase of Sourcefire and FireEye's IPO filing indicate, enterprise interest in cybersecurity is picking up.
+ ",0.9681,positive,0.8037756097560975
+203,2013-08-15,-1.4180000000000001,IBM snaps up security firm Trusteer,"
+ IBM (NYSE:IBM) announces it purchased Trusteer for an undisclosed amount. In conjunction with the acquisition of the computer and cloud systems security firm, IBM also says it will open a cybersecurity lab in Israel.
+ ",0.7632,positive,0.8037756097560975
+204,2013-07-31,-0.787,SEC investigating IBM's cloud revenues; Big Blue says it's cooperating,"
+ From IBM's Q2 10-Q: ""In May 2013, IBM learned that the SEC is conducting an investigation into how IBM reports cloud revenue.? IBM is cooperating with the SEC in this matter."" No details are provided about the nature of the SEC's concerns. However, it's worth noting companies tend to receive payment for cloud software/services subscriptions up-front, and recognize this revenue over the life of the contract. The timing of such revenue recognition can present some accounting issues. It was only last week that a federal court approved a settlement between IBM and the SEC over Chinese/Korean bribery allegations. A DOJ bribery investigation remains outstanding. Shares -1.1% premarket.  ",0.9551,positive,0.8037756097560975
