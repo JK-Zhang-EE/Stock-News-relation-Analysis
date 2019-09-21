@@ -19,7 +19,7 @@ url:
 NLTK - https://www.nltk.org/
 Loughran and McDonald Financial Sentiment Word List - https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists
 
-## Analusis Results
+## Analysis Results
 We found the bad news rate which in "Decrease data" is almost equal the "Increase data" for big commany.
 
 If the company news data is to small like Acer,it won't have good analysis results.
